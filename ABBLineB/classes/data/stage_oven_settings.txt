@@ -1,0 +1,9 @@
+Field	Value
+COLLECTION	Archive-opc-B_Oven
+JSON	{'time_stamp':'Archive-opc-B_Oven_TIMESTAMP_EP','time':'Archive-opc-B_Oven_TIMESTAMP','zone_1t_temp_actual':'Zone1_Temp_T:Actual_Value','zone_1t_temp_sp':'Zone1_Temp_T_SP:Actual_Value','zone_2t_temp_actual':'Zone2_Temp_T:Actual_Value','zone_2t_temp_sp':'Zone2_Temp_T_SP:Actual_Value','zone_3t_temp_actual':'Zone3_Temp_T:Actual_Value','zone_3t_temp_sp':'Zone3_Temp_T_SP:Actual_Value','zone_4t_temp_actual':'Zone4_Temp_T:Actual_Value','zone_4t_temp_sp':'Zone4_Temp_T_SP:Actual_Value','zone_5t_temp_actual':'Zone5_Temp_T:Actual_Value','zone_5t_temp_sp':'Zone5_Temp_T_SP:Actual_Value','zone_6t_temp_actual':'Zone6_Temp_T:Actual_Value','zone_6t_temp_sp':'Zone6_Temp_T_SP:Actual_Value','zone_1b_temp_actual':'Zone1_Temp_B:Actual_Value','zone_1b_temp_sp':'Zone1_Temp_B_SP:Actual_Value','zone_2b_temp_actual':'Zone2_Temp_B:Actual_Value','zone_2b_temp_sp':'Zone2_Temp_B_SP:Actual_Value','zone_3b_temp_actual':'Zone3_Temp_B:Actual_Value','zone_3b_temp_sp':'Zone3_Temp_B_SP:Actual_Value','zone_4b_temp_actual':'Zone4_Temp_B:Actual_Value','zone_4b_temp_sp':'Zone4_Temp_B_SP:Actual_Value','zone_5b_temp_actual':'Zone5_Temp_B:Actual_Value','zone_5b_temp_sp':'Zone5_Temp_B_SP:Actual_Value','zone_6b_temp_actual':'Zone6_Temp_B:Actual_Value','zone_6b_temp_sp':'Zone6_Temp_B_SP:Actual_Value','baking_time':'BakingTime:Actual_Value','recipe_no':'Recipe_No:Value'}
+KEYS	['Zone 1B', 'Zone 2B', 'Zone 3B', 'Zone 4B', 'Zone 5B', 'Zone 6B','Zone 1T', 'Zone 2T', 'Zone 3T', 'Zone 4T', 'Zone 5T', 'Zone 6T']
+SEQ	Zone 1T,Zone 2T,Zone 3T,Zone 4T,Zone 5T,Zone 6T,Zone 1B,Zone 2B,Zone 3B,Zone 4B,Zone 5B,Zone 6B
+REPORTKEYS	['Zone 1B', 'Zone 2B', 'Zone 3B', 'Zone 4B', 'Zone 5B', 'Zone 6B','Zone 1T', 'Zone 2T', 'Zone 3T', 'Zone 4T', 'Zone 5T', 'Zone 6T']
+RECIPE	['1','2','3']
+RECIPENAME	{'1': 'Milk Bikis', '2': 'Nutri Choice', '3': 'Nice'}
+RECIPESET	{'1': '4m.30s', '2': '6m', '3': '5m'}

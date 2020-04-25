@@ -1,0 +1,6 @@
+Field	Value
+COLLECTION	Archive-opc-cms
+JSON	{'time_stamp':'Archive-opc-cms_TIMESTAMP_EP','time':'Archive-opc-cms_TIMESTAMP','cream_ratio_sp':'cream_ratio_sp','cream_ratio_actual':'cream_ratio_actual','maida_actual':'maida_actual','cream_actual':'cream_actual'}
+KEYS	['CMS']
+SEQ	CMS
+REPORTKEYS	['CMS']

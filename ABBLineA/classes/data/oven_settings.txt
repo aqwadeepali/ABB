@@ -1,0 +1,9 @@
+Field	Value
+COLLECTION	Archive-OVEN
+JSON	{'time_stamp':'Archive-OVEN_TIMESTAMP_EP','time':'Archive-OVEN_TIMESTAMP','zone_1a_temp_actual':'zone1_act:Actual_Value','zone_1a_temp_sp':'zone1_set:Actual_Value','zone_2a_temp_actual':'zone2_act:Actual_Value','zone_2a_temp_sp':'zone2_set:Actual_Value', 'zone_3a_temp_actual':'zone3_act:Actual_Value','zone_3a_temp_sp':'zone3_set:Actual_Value', 'zone_4a_temp_actual':'zone4_act:Actual_Value','zone_4a_temp_sp':'zone4_set:Actual_Value','zone_5a_temp_actual':'zone5_act:Actual_Value','zone_5a_temp_sp':'zone5_set:Actual_Value','baking_time':'BakingTime:Actual_Value','recipe_no':'Recipe_No:Value'}
+KEYS	['Zone 1A', 'Zone 2A', 'Zone 3A', 'Zone 4A', 'Zone 5A']
+SEQ	Zone 1A,Zone 2A,Zone 3A,Zone 4A,Zone 5A
+REPORTKEYS	['Zone 1A', 'Zone 2A', 'Zone 3A', 'Zone 4A', 'Zone 5A']
+RECIPE	['1','2','3']
+RECIPENAME	{'1': 'Milk Bikis', '2': 'Nutri Choice', '3': 'Nice'}
+RECIPESET	{'1': '4m.30s', '2': '6m', '3': '5m'}

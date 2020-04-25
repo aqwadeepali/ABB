@@ -1,0 +1,4911 @@
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [15/Jul/2019 15:32:15] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-14
+Mixing self._date: 2019-07-14
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-14
+Mixing self._date: 2019-07-14
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-14
+Mixing self._date: 2019-07-14
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Jul/2019 15:32:17] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 15:32:32] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 15:34:05] "POST /api_analyze/services/savedashboardreport HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 15:34:05] "GET /api_analyze/services/sendfresponse?name=Mixing_Dashboard_322e753c-705e-48b6-a391-8a57dc5251a2.zip HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 15:35:39] "POST /api_analyze/services/getmoulderhome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+Data Push Started...
+dateparam: 2019-04-10
+self._date: 2019-04-10
+4302 records found
+DB Push Completed...Packing
+get_packing_home Exception....
+None
+127.0.0.1 - - [15/Jul/2019 15:36:01] "POST /api_analyze/services/getpackinghome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+line_pm1.html ---to--- line_pm1.png
+line_packet_pm1.html ---to--- line_packet_pm1.png
+line_efficiency_pm1.html ---to--- line_efficiency_pm1.png
+pie_pm1.html ---to--- pie_pm1.png
+line_packet_rate_pm1.html ---to--- line_packet_rate_pm1.png
+line_pm2.html ---to--- line_pm2.png
+line_packet_pm2.html ---to--- line_packet_pm2.png
+line_efficiency_pm2.html ---to--- line_efficiency_pm2.png
+pie_pm2.html ---to--- pie_pm2.png
+line_packet_rate_pm2.html ---to--- line_packet_rate_pm2.png
+line_pm3.html ---to--- line_pm3.png
+line_packet_pm3.html ---to--- line_packet_pm3.png
+line_efficiency_pm3.html ---to--- line_efficiency_pm3.png
+pie_pm3.html ---to--- pie_pm3.png
+line_packet_rate_pm3.html ---to--- line_packet_rate_pm3.png
+line_packing.html ---to--- line_packing.png
+line_packet_packing.html ---to--- line_packet_packing.png
+line_efficiency_packing.html ---to--- line_efficiency_packing.png
+pie_packing.html ---to--- pie_packing.png
+line_packet_rate_packing.html ---to--- line_packet_rate_packing.png
+127.0.0.1 - - [15/Jul/2019 15:36:35] "POST /api_analyze/services/savepackinghome HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jul/2019 15:36:35] "GET /api_analyze/services/sendfresponse?name=Packing_Dashboard_Reports_fc9be49f-ab4b-4ccf-a402-73e4d0e78529.zip HTTP/1.1" 200 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 13:20:54] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 13:20:58] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jul/2019 13:31:12] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 13:31:13] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jul/2019 13:52:20] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 13:52:22] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:21:16] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+get_home Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 284, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 191, in read_from_db
+    db = myDb[self.collection]
+  File "C:\Python27\lib\site-packages\pymongo\database.py", line 259, in __getitem__
+    return Collection(self, name)
+  File "C:\Python27\lib\site-packages\pymongo\collection.py", line 163, in __init__
+    raise InvalidName("collection names cannot be empty")
+InvalidName: collection names cannot be empty
+collection names cannot be empty
+Traceback (most recent call last):
+  File "classes/services.py", line 284, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 191, in read_from_db
+    db = myDb[self.collection]
+  File "C:\Python27\lib\site-packages\pymongo\database.py", line 259, in __getitem__
+    return Collection(self, name)
+  File "C:\Python27\lib\site-packages\pymongo\collection.py", line 163, in __init__
+    raise InvalidName("collection names cannot be empty")
+InvalidName: collection names cannot be empty
+127.0.0.1 - - [16/Jul/2019 14:21:16] "POST /api_analyze/services/gethome HTTP/1.1" 500 -
+127.0.0.1 - - [16/Jul/2019 14:22:44] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+get_home Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 284, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 191, in read_from_db
+    db = myDb[self.collection]
+  File "C:\Python27\lib\site-packages\pymongo\database.py", line 259, in __getitem__
+    return Collection(self, name)
+  File "C:\Python27\lib\site-packages\pymongo\collection.py", line 163, in __init__
+    raise InvalidName("collection names cannot be empty")
+InvalidName: collection names cannot be empty
+collection names cannot be empty
+Traceback (most recent call last):
+  File "classes/services.py", line 284, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 191, in read_from_db
+    db = myDb[self.collection]
+  File "C:\Python27\lib\site-packages\pymongo\database.py", line 259, in __getitem__
+    return Collection(self, name)
+  File "C:\Python27\lib\site-packages\pymongo\collection.py", line 163, in __init__
+    raise InvalidName("collection names cannot be empty")
+InvalidName: collection names cannot be empty
+127.0.0.1 - - [16/Jul/2019 14:22:44] "POST /api_analyze/services/gethome HTTP/1.1" 500 -
+127.0.0.1 - - [16/Jul/2019 14:23:47] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+get_home Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 284, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 191, in read_from_db
+    db = myDb[self.collection]
+  File "C:\Python27\lib\site-packages\pymongo\database.py", line 259, in __getitem__
+    return Collection(self, name)
+  File "C:\Python27\lib\site-packages\pymongo\collection.py", line 163, in __init__
+    raise InvalidName("collection names cannot be empty")
+InvalidName: collection names cannot be empty
+collection names cannot be empty
+Traceback (most recent call last):
+  File "classes/services.py", line 284, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 191, in read_from_db
+    db = myDb[self.collection]
+  File "C:\Python27\lib\site-packages\pymongo\database.py", line 259, in __getitem__
+    return Collection(self, name)
+  File "C:\Python27\lib\site-packages\pymongo\collection.py", line 163, in __init__
+    raise InvalidName("collection names cannot be empty")
+InvalidName: collection names cannot be empty
+127.0.0.1 - - [16/Jul/2019 14:23:48] "POST /api_analyze/services/gethome HTTP/1.1" 500 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:24:41] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:24:42] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:26:14] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:26:19] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:26:21] "POST /api_analyze/services/getreports HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:26:24] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:26:26] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-14
+Mixing self._date: 2019-07-14
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:26:44] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:26:46] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-12
+Mixing self._date: 2019-07-12
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:27:52] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:28:06] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:32:40] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 116, in get_settings
+    if row["Field"] == "REPORTKEYS_"+rec_key:
+TypeError: cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+Traceback (most recent call last):
+  File "classes/services.py", line 116, in get_settings
+    if row["Field"] == "REPORTKEYS_"+rec_key:
+TypeError: cannot concatenate 'str' and 'int' objects
+get_home Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 280, in get_home
+    myDb = self.mongo["mixing_staging_"+recipeValue]
+TypeError: cannot concatenate 'str' and 'int' objects
+cannot concatenate 'str' and 'int' objects
+Traceback (most recent call last):
+  File "classes/services.py", line 280, in get_home
+    myDb = self.mongo["mixing_staging_"+recipeValue]
+TypeError: cannot concatenate 'str' and 'int' objects
+127.0.0.1 - - [16/Jul/2019 14:32:40] "POST /api_analyze/services/gethome HTTP/1.1" 500 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:33:31] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:33:32] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:33:37] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:34:55] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:34:55] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:34:58] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-12
+Mixing self._date: 2019-07-12
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:35:22] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:35:23] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jul/2019 14:35:31] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:35:32] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:36:15] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+local variable 'recipeKeys' referenced before assignment
+Traceback (most recent call last):
+  File "classes/services.py", line 130, in get_settings
+    self.recipeKeys = recipeKeys
+UnboundLocalError: local variable 'recipeKeys' referenced before assignment
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:36:15] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:37:28] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:42:19] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:42:19] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:42:42] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:44:20] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:44:20] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:44:24] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:45:15] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:45:15] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:46:40] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:49:23] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:49:23] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:49:33] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 14:50:23] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:50:23] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-14
+Mixing self._date: 2019-07-14
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:54:57] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:55:05] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:55:24] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-12
+Mixing self._date: 2019-07-12
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:56:31] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:56:33] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-14
+Mixing self._date: 2019-07-14
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:57:42] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 14:57:48] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 15:02:04] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:02:04] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:02:09] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 15:04:51] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:04:51] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_data.py', reloading
+Read Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 110, in get_settings
+    print "Reading Settings"
+IOError: [Errno 0] Error
+[Errno 0] Error
+Traceback (most recent call last):
+  File "classes/services.py", line 110, in get_settings
+    print "Reading Settings"
+IOError: [Errno 0] Error
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:14:50] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 15:15:27] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:15:27] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:15:41] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jul/2019 15:23:18] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+get_home Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 286, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 227, in read_from_db
+    fbtime = row[self.config["time"]]
+KeyError: 'Archive-opc-Mixing_TIMESTAMP'
+'Archive-opc-Mixing_TIMESTAMP'
+Traceback (most recent call last):
+  File "classes/services.py", line 286, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 227, in read_from_db
+    fbtime = row[self.config["time"]]
+KeyError: 'Archive-opc-Mixing_TIMESTAMP'
+127.0.0.1 - - [16/Jul/2019 15:23:19] "POST /api_analyze/services/gethome HTTP/1.1" 500 -
+Read UI Settings Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 138, in read_settings
+    print "Reading Settings"
+IOError: [Errno 3] No such process
+[Errno 3] No such process
+Traceback (most recent call last):
+  File "classes/services.py", line 138, in read_settings
+    print "Reading Settings"
+IOError: [Errno 3] No such process
+127.0.0.1 - - [16/Jul/2019 15:25:43] "POST /api_analyze/services/readsettings HTTP/1.1" 500 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 15:26:18] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+get_home Exception....
+Traceback (most recent call last):
+  File "classes/services.py", line 286, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 227, in read_from_db
+    fbtime = row[self.config["time"]]
+KeyError: 'Archive-opc-Mixing_TIMESTAMP'
+'Archive-opc-Mixing_TIMESTAMP'
+Traceback (most recent call last):
+  File "classes/services.py", line 286, in get_home
+    self.dbManager.get_today_records(selectedDate)
+  File "classes/stage_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "classes/stage_data.py", line 227, in read_from_db
+    fbtime = row[self.config["time"]]
+KeyError: 'Archive-opc-Mixing_TIMESTAMP'
+127.0.0.1 - - [16/Jul/2019 15:26:19] "POST /api_analyze/services/gethome HTTP/1.1" 500 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 15:26:59] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 404 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:29:12] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 15:32:00] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Jul/2019 15:33:16] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 404 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:33:19] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 404 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:36:37] "POST /api_analyze/services/getreports HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 1004 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:36:53] "POST /api_analyze/services/getreports HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-15
+Mixing self._date: 2019-07-15
+Mixing 404 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:37:10] "POST /api_analyze/services/getreports HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 1004 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [16/Jul/2019 15:37:23] "POST /api_analyze/services/getreports HTTP/1.1" 200 -
+127.0.0.1 - - [16/Jul/2019 15:38:16] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in 'C:\\Program Files\\ItantaAnalytics\\ABB\\classes\\stage_bori_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 439-905-278
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [22/Jul/2019 12:52:31] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-21
+Mixing self._date: 2019-07-21
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 12:52:31] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-13
+Mixing self._date: 2019-07-13
+Mixing 1154 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 12:52:39] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Oven
+Oven dateparam: 2019-07-13
+Oven self._date: 2019-07-13
+Oven 6240 records found
+DB Push Completed...Oven
+127.0.0.1 - - [22/Jul/2019 12:52:44] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 12:52:59] "POST /api_analyze/services/getovenreport HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:34:05] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-21
+Mixing self._date: 2019-07-21
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 13:34:06] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:36:54] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-21
+Mixing self._date: 2019-07-21
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 13:36:54] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:37:00] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-21
+Mixing self._date: 2019-07-21
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 13:37:00] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Oven
+Oven dateparam: 2019-07-21
+Oven self._date: 2019-07-21
+No Data...Oven
+127.0.0.1 - - [22/Jul/2019 13:37:05] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:37:10] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:37:16] "POST /api_analyze/services/getovenreport HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:38:18] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:38:45] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-21
+Mixing self._date: 2019-07-21
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 13:38:46] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/oven_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+Data Push Started...Oven
+Oven dateparam: 2019-07-21
+Oven self._date: 2019-07-21
+No Data...Oven
+127.0.0.1 - - [22/Jul/2019 13:40:21] "POST /api_analyze/services/getovenreport HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:40:24] "POST /api_analyze/services/getovenreport HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:41:02] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-21
+Mixing self._date: 2019-07-21
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 13:41:03] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:41:58] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-21
+Mixing self._date: 2019-07-21
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [22/Jul/2019 13:41:58] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Oven
+Oven dateparam: 2019-07-21
+Oven self._date: 2019-07-21
+No Data...Oven
+127.0.0.1 - - [22/Jul/2019 13:43:51] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:43:54] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:43:57] "POST /api_analyze/services/getovenreport HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:44:07] "POST /api_analyze/services/saveovenreport HTTP/1.1" 200 -
+127.0.0.1 - - [22/Jul/2019 13:44:07] "GET /api_analyze/services/sendfresponse?name=Oven_Reports_fcb5f9cc-3ff5-4267-917c-b0a09c60fb2f.zip HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/oven_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [31/Jul/2019 12:10:23] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-30
+Mixing self._date: 2019-07-30
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [31/Jul/2019 12:10:23] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 12:10:50] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-30
+Mixing self._date: 2019-07-30
+Mixing 1025 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [31/Jul/2019 12:10:53] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-29
+Mixing self._date: 2019-07-29
+Mixing 1912 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [31/Jul/2019 12:12:02] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-28
+Mixing self._date: 2019-07-28
+Mixing 2020 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [31/Jul/2019 12:17:00] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [31/Jul/2019 18:55:49] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:55:49] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:57:55] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:57:56] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:58:23] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:58:23] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:58:30] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:58:30] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:59:39] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 18:59:39] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:05:30] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:05:30] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:05:35] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:05:39] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:05:41] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:06:53] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:07:14] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:07:16] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:07:19] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:07:20] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:07:30] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [31/Jul/2019 19:07:35] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [31/Jul/2019 19:09:44] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:09:45] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+'time_stamp'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+127.0.0.1 - - [31/Jul/2019 19:09:48] "POST /api_analyze/services/getcmshome HTTP/1.1" 500 -
+127.0.0.1 - - [31/Jul/2019 19:11:12] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:11:13] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:11:16] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+'time_stamp'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+127.0.0.1 - - [31/Jul/2019 19:11:19] "POST /api_analyze/services/getcmshome HTTP/1.1" 500 -
+127.0.0.1 - - [31/Jul/2019 19:12:32] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:12:32] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+'time_stamp'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 153, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+127.0.0.1 - - [31/Jul/2019 19:12:39] "POST /api_analyze/services/getcmshome HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [31/Jul/2019 19:17:43] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:17:43] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:17:45] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    print {self.config["time_stamp"]:to_find}
+KeyError: 'time_stamp'
+'time_stamp'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    print {self.config["time_stamp"]:to_find}
+KeyError: 'time_stamp'
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 118, in read_from_db
+    print {self.config["time_stamp"]:to_find}
+KeyError: 'time_stamp'
+127.0.0.1 - - [31/Jul/2019 19:17:49] "POST /api_analyze/services/getcmshome HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [31/Jul/2019 19:18:25] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:18:25] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 119, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+'time_stamp'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 119, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 119, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+127.0.0.1 - - [31/Jul/2019 19:18:31] "POST /api_analyze/services/getcmshome HTTP/1.1" 500 -
+127.0.0.1 - - [31/Jul/2019 19:19:39] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2019 19:19:39] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 119, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+'time_stamp'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 119, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+get_cms_home Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 132, in get_cms_home
+    self.dbManager.get_today_records(selectedDate)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 154, in get_today_records
+    target_dict = self.read_from_db(dateparam)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py", line 119, in read_from_db
+    dbresult = db.find({self.config["time_stamp"]:to_find})
+KeyError: 'time_stamp'
+127.0.0.1 - - [31/Jul/2019 19:19:46] "POST /api_analyze/services/getcmshome HTTP/1.1" 500 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [01/Aug/2019 06:39:11] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 06:39:11] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:42:31] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:42:34] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:43:21] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:46:04] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:46:07] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:46:29] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:46:32] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:46:35] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 06:46:46] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [01/Aug/2019 11:03:47] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 11:03:49] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 11:03:51] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 11:03:53] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-13
+Moulder self._date: 2019-07-13
+No Data...Moulder
+127.0.0.1 - - [01/Aug/2019 11:03:59] "POST /api_analyze/services/getmoulderhome HTTP/1.1" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-19
+Moulder self._date: 2019-07-19
+No Data...Moulder
+127.0.0.1 - - [01/Aug/2019 11:04:02] "POST /api_analyze/services/getmoulderhome HTTP/1.1" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-13
+Moulder self._date: 2019-07-13
+No Data...Moulder
+127.0.0.1 - - [01/Aug/2019 11:04:04] "POST /api_analyze/services/getmoulderhome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 11:04:07] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 11:04:12] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 11:05:20] "POST /api_analyze/services/getovenhome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 11:06:29] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [01/Aug/2019 11:49:43] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 11:49:44] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 11:55:27] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 11:55:29] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 11:55:32] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:00:03] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:00:06] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:00:08] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:00:11] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:00:13] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:00:16] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:08:00] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:08:47] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:08:54] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:08:54] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:08:57] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:09:00] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:09:01] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:09:03] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:09:14] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:13:08] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_cms_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:17:43] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_report Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:17:49] "POST /api_analyze/services/getcmsreport HTTP/1.1" 200 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:31:26] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:31:28] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:31:29] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:31:34] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:31:35] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:31:41] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:31:45] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+save_cms_dashboard_report Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 628, in save_cms_home
+    filename = self.get_cms_dashboard_report()
+TypeError: get_cms_dashboard_report() takes exactly 2 arguments (1 given)
+get_cms_dashboard_report() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 628, in save_cms_home
+    filename = self.get_cms_dashboard_report()
+TypeError: get_cms_dashboard_report() takes exactly 2 arguments (1 given)
+127.0.0.1 - - [01/Aug/2019 12:31:47] "POST /api_analyze/services/savecmshome HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [01/Aug/2019 12:32:52] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:32:53] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:35:33] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:35:33] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:35:47] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:35:55] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+save_cms_dashboard_report Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 628, in save_cms_home
+    filename = self.get_cms_dashboard_report()
+TypeError: get_cms_dashboard_report() takes exactly 2 arguments (1 given)
+get_cms_dashboard_report() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 628, in save_cms_home
+    filename = self.get_cms_dashboard_report()
+TypeError: get_cms_dashboard_report() takes exactly 2 arguments (1 given)
+127.0.0.1 - - [01/Aug/2019 12:35:57] "POST /api_analyze/services/savecmshome HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [01/Aug/2019 12:36:31] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:36:32] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+Data Push Started...CMS
+CMS dateparam: 2019-07-31
+CMS self._date: 2019-07-31
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:36:35] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:36:37] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_download_report Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 873, in get_cms_dashboard_report
+    linechart = Highchart()
+NameError: global name 'Highchart' is not defined
+global name 'Highchart' is not defined
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 873, in get_cms_dashboard_report
+    linechart = Highchart()
+NameError: global name 'Highchart' is not defined
+save_cms_dashboard_report Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 639, in save_cms_home
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+'NoneType' object has no attribute 'rfind'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 639, in save_cms_home
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+127.0.0.1 - - [01/Aug/2019 12:36:39] "POST /api_analyze/services/savecmshome HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [01/Aug/2019 12:37:19] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:37:19] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:37:23] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:37:26] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_download_report Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 981, in get_cms_dashboard_report
+    html_list.append({"id": chartObjQty["id"], "type":"line"})
+NameError: global name 'html_list' is not defined
+global name 'html_list' is not defined
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 981, in get_cms_dashboard_report
+    html_list.append({"id": chartObjQty["id"], "type":"line"})
+NameError: global name 'html_list' is not defined
+save_cms_dashboard_report Exception....
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 641, in save_cms_home
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+'NoneType' object has no attribute 'rfind'
+Traceback (most recent call last):
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py", line 641, in save_cms_home
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+127.0.0.1 - - [01/Aug/2019 12:37:28] "POST /api_analyze/services/savecmshome HTTP/1.1" 500 -
+ * Detected change in '/DeepaliData/Workspace/ABB/ABBLineB/classes/cms_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 132-424-638
+127.0.0.1 - - [01/Aug/2019 12:38:05] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:38:05] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Error on request:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/werkzeug/serving.py", line 303, in run_wsgi
+    execute(self.server.app)
+  File "/usr/local/lib/python2.7/site-packages/werkzeug/serving.py", line 294, in execute
+    write(data)
+  File "/usr/local/lib/python2.7/site-packages/werkzeug/serving.py", line 269, in write
+    self.send_header("Server", self.version_string())
+  File "/usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [01/Aug/2019 12:38:06] "POST /api_analyze/services/readsettings HTTP/1.1" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-31
+Mixing self._date: 2019-07-31
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [01/Aug/2019 12:38:06] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:38:08] "POST /api_analyze/services/gethome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+get_cms_home Exception....
+None
+127.0.0.1 - - [01/Aug/2019 12:38:12] "POST /api_analyze/services/getcmshome HTTP/1.1" 200 -
+Read Settings Exception....
+None
+line_qty_cms.html ---to--- line_qty_cms.png
+line_ratio_cms.html ---to--- line_ratio_cms.png
+127.0.0.1 - - [01/Aug/2019 12:38:17] "POST /api_analyze/services/savecmshome HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2019 12:38:17] "GET /api_analyze/services/sendfresponse?name=CMS_Reports_10640e99-dc46-4bbd-abb5-d516fbef4429.zip HTTP/1.1" 200 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 16:43:49] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2020-03-14
+Mixing self._date: 2020-03-14
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 16:43:59] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-03-25
+Mixing self._date: 2019-03-25
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 16:44:11] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-25
+Mixing self._date: 2019-07-25
+Mixing 2202 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 16:47:28] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 19:19:00] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:19:00] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:19:09] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Error on request:
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/Library/Python/2.7/lib/python/site-packages/werkzeug/serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "/Users/deepalimahajan/Library/Python/2.7/lib/python/site-packages/werkzeug/serving.py", line 315, in execute
+    write(data)
+  File "/Users/deepalimahajan/Library/Python/2.7/lib/python/site-packages/werkzeug/serving.py", line 296, in write
+    self.wfile.write(data)
+IOError: [Errno 32] Broken pipe
+127.0.0.1 - - [15/Mar/2020 19:20:00] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:00] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:01] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:35] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:35] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:36] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:38] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:40] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:42] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:20:44] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:24:20] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:24:20] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:24:20] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 19:44:09] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:44:09] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:44:18] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:44:23] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:44:23] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:53:21] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-25
+Mixing self._date: 2019-07-25
+Mixing 2202 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:53:27] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 19:54:16] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-25
+Mixing self._date: 2019-07-25
+Mixing 2202 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:54:22] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 19:55:46] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:55:46] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:55:52] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 19:57:41] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:57:41] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:57:48] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 19:58:07] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-22
+Mixing self._date: 2019-07-22
+Mixing 1349 records found
+DB Push Completed...Mixing
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-23
+Mixing self._date: 2019-07-23
+Mixing 2149 records found
+DB Push Completed...Mixing
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:58:29] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:58:40] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:58:47] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:59:00] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-25
+Mixing self._date: 2019-07-25
+Mixing 2202 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:59:15] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 19:59:20] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:59:27] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:59:41] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 19:59:51] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:00:03] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+Save_reports Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 1143, in get_dashboard_home
+    html_list.append({"id": donutChartObj["id"], "type":"pie"})
+NameError: global name 'html_list' is not defined
+global name 'html_list' is not defined
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 1143, in get_dashboard_home
+    html_list.append({"id": donutChartObj["id"], "type":"pie"})
+NameError: global name 'html_list' is not defined
+save_dashboard_reports Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 913, in save_dashboard_report
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+'NoneType' object has no attribute 'rfind'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 913, in save_dashboard_report
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+127.0.0.1 - - [15/Mar/2020 20:00:13] "[35m[1mPOST /api_analyze/services/savedashboardreport HTTP/1.1[0m" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 20:00:48] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:00:48] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:00:55] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:02:27] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:02:36] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:02:44] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:03:00] "[37mPOST /api_analyze/services/savedashboardreport HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:03:00] "[37mGET /api_analyze/services/sendfresponse?name=Mixing_Dashboard_68d012bb-380e-4f8f-8ce0-cded351df185.zip HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:04:17] "[37mPOST /api_analyze/services/savedashboardreport HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:04:17] "[37mGET /api_analyze/services/sendfresponse?name=Mixing_Dashboard_9f3cdd73-0437-4149-8fc9-3a3d32e36f96.zip HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+get_reports Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 833, in get_reports
+    node["SetDuration"] = True if datetime.strptime(str(self.setdata[prop]['duration']), "%H:%M:%S") > datetime.strptime(str(node['AvgDuration']), "%H:%M:%S") else False
+KeyError: 'Flour'
+'Flour'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 833, in get_reports
+    node["SetDuration"] = True if datetime.strptime(str(self.setdata[prop]['duration']), "%H:%M:%S") > datetime.strptime(str(node['AvgDuration']), "%H:%M:%S") else False
+KeyError: 'Flour'
+127.0.0.1 - - [15/Mar/2020 20:04:47] "[35m[1mPOST /api_analyze/services/getreports HTTP/1.1[0m" 500 -
+127.0.0.1 - - [15/Mar/2020 20:10:01] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:10:01] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:10:08] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:10:16] "[37mPOST /api_analyze/services/getreports HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+downloadReport Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 706, in downloadReport
+    out_pdf= FILE_PATH + 'Report_Demo_'+selectedDate+'.pdf'
+NameError: global name 'selectedDate' is not defined
+global name 'selectedDate' is not defined
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 706, in downloadReport
+    out_pdf= FILE_PATH + 'Report_Demo_'+selectedDate+'.pdf'
+NameError: global name 'selectedDate' is not defined
+save_reports Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 892, in save_reports
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+'NoneType' object has no attribute 'rfind'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 892, in save_reports
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+127.0.0.1 - - [15/Mar/2020 20:10:33] "[35m[1mPOST /api_analyze/services/savereport HTTP/1.1[0m" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 20:12:15] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:12:15] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:12:22] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:12:33] "[37mPOST /api_analyze/services/getreports HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+downloadReport Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 716, in downloadReport
+    '<span style="color:#323232;font-size:30px;"> Generation Date ('+selectedDate+') </span>'\
+NameError: global name 'reportTitle' is not defined
+global name 'reportTitle' is not defined
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 716, in downloadReport
+    '<span style="color:#323232;font-size:30px;"> Generation Date ('+selectedDate+') </span>'\
+NameError: global name 'reportTitle' is not defined
+save_reports Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 892, in save_reports
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+'NoneType' object has no attribute 'rfind'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 892, in save_reports
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+127.0.0.1 - - [15/Mar/2020 20:13:01] "[35m[1mPOST /api_analyze/services/savereport HTTP/1.1[0m" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 20:14:16] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:14:16] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:14:24] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:14:37] "[37mPOST /api_analyze/services/getreports HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+to_html_pretty Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+'str' object has no attribute 'to_html'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 769, in to_html_pretty
+    ht += df.to_html(classes='wide', escape=False)
+AttributeError: 'str' object has no attribute 'to_html'
+downloadReport Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 747, in downloadReport
+    pdfkit.from_file(intermediate_html, out_pdf, options=options)
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/api.py", line 49, in from_file
+    configuration=configuration, cover_first=cover_first)
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/pdfkit.py", line 41, in __init__
+    self.source = Source(url_or_file, type_)
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/source.py", line 12, in __init__
+    self.checkFiles()
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/source.py", line 32, in checkFiles
+    raise IOError('No such file: %s' % self.source)
+IOError: No such file: /Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB//dbpush/data/intermediate.html
+No such file: /Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB//dbpush/data/intermediate.html
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 747, in downloadReport
+    pdfkit.from_file(intermediate_html, out_pdf, options=options)
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/api.py", line 49, in from_file
+    configuration=configuration, cover_first=cover_first)
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/pdfkit.py", line 41, in __init__
+    self.source = Source(url_or_file, type_)
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/source.py", line 12, in __init__
+    self.checkFiles()
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/pdfkit/source.py", line 32, in checkFiles
+    raise IOError('No such file: %s' % self.source)
+IOError: No such file: /Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB//dbpush/data/intermediate.html
+save_reports Exception....
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 895, in save_reports
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+'NoneType' object has no attribute 'rfind'
+Traceback (most recent call last):
+  File "/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py", line 895, in save_reports
+    zf.write(filepath, os.path.basename(filepath), compress_type=compression)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/posixpath.py", line 114, in basename
+    i = p.rfind('/') + 1
+AttributeError: 'NoneType' object has no attribute 'rfind'
+127.0.0.1 - - [15/Mar/2020 20:14:47] "[35m[1mPOST /api_analyze/services/savereport HTTP/1.1[0m" 500 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 20:15:23] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:15:23] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:15:30] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:15:46] "[37mPOST /api_analyze/services/getreports HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:16:22] "[37mPOST /api_analyze/services/savereport HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:16:22] "[37mGET /api_analyze/services/sendfresponse?name=Reports_39c3dee2-c824-47f8-9d12-6dda0ee283c8.zip HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 20:24:33] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:24:33] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-07-24
+Mixing self._date: 2019-07-24
+Mixing 1931 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:24:39] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-24
+Moulder self._date: 2019-07-24
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:24:46] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-25
+Moulder self._date: 2019-07-25
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:24:51] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-25
+Moulder self._date: 2019-07-25
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:24:54] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:26:13] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 20:26:13] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2019-09-24
+Mixing self._date: 2019-09-24
+Mixing 1186 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 20:26:20] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-24
+Moulder self._date: 2019-09-24
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:26:24] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-01
+Moulder self._date: 2019-09-01
+Moulder 6822 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:26:28] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-01
+Moulder self._date: 2019-09-01
+Moulder 6822 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:26:31] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-02
+Moulder self._date: 2019-09-02
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:26:50] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-02
+Moulder self._date: 2019-09-02
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:26:53] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-03
+Moulder self._date: 2019-09-03
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:26:56] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-01
+Moulder self._date: 2019-09-01
+Moulder 6822 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:26:59] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-01
+Moulder self._date: 2019-09-01
+Moulder 6822 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:30:11] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-02
+Moulder self._date: 2019-09-02
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:30:15] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-02
+Moulder self._date: 2019-09-02
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:30:17] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-01
+Moulder self._date: 2019-09-01
+Moulder 6822 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:30:22] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-01
+Moulder self._date: 2019-09-01
+Moulder 6822 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:30:25] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_moulder_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-02
+Moulder self._date: 2019-09-02
+No Data...Moulder
+127.0.0.1 - - [15/Mar/2020 20:31:16] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/stage_moulder_data.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Data Push Started...Moulder
+Moulder dateparam: 2019-09-01
+Moulder self._date: 2019-09-01
+No Data...Moulder
+127.0.0.1 - - [15/Mar/2020 20:32:05] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Running on http://0.0.0.0:20040/ (Press CTRL+C to quit)
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Data Push Started...Moulder
+Moulder dateparam: 2019-03-25
+Moulder self._date: 2019-03-25
+Moulder 8460 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:32:38] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-03-25
+Moulder self._date: 2019-03-25
+Moulder 8460 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:32:46] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/moulder_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Data Push Started...Moulder
+Moulder dateparam: 2019-03-25
+Moulder self._date: 2019-03-25
+Moulder 8460 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:33:53] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-24
+Moulder self._date: 2019-07-24
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:35:08] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-24
+Moulder self._date: 2019-07-24
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:35:14] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/moulder_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+127.0.0.1 - - [15/Mar/2020 20:35:35] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+ * Detected change in '/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/moulder_services.py', reloading
+ * Restarting with stat
+Reading Settings...Mixing
+Reading Params....Mixing
+File Ready to Use...Mixing
+Reading Settings...Moulder
+Reading Params....Moulder
+File Ready to Use...Moulder
+Reading Params....CMS
+File Ready to Use...CMS
+Reading Settings
+Reading Params....
+
+File Ready to Use...
+Reading Settings
+Reading Params....Oven
+File Ready to Use...Oven
+Reading Settings...Bori
+Reading Params....Bori
+File Ready to Use...Bori
+ * Debugger is active!
+ * Debugger PIN: 118-899-260
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-23
+Moulder self._date: 2019-07-23
+Moulder 8640 records found
+DB Push Completed...Moulder
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-24
+Moulder self._date: 2019-07-24
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:36:44] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-22
+Moulder self._date: 2019-07-22
+Moulder 8640 records found
+DB Push Completed...Moulder
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-23
+Moulder self._date: 2019-07-23
+Moulder 8640 records found
+DB Push Completed...Moulder
+Data Push Started...Moulder
+Moulder dateparam: 2019-07-24
+Moulder self._date: 2019-07-24
+Moulder 8640 records found
+DB Push Completed...Moulder
+127.0.0.1 - - [15/Mar/2020 20:36:53] "[37mPOST /api_analyze/services/getmoulderhome HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 21:20:11] "[37mPOST /api_analyze/services/readsettings HTTP/1.1[0m" 200 -
+127.0.0.1 - - [15/Mar/2020 21:20:11] "[37mPOST /api_analyze/services/getmixingmenu HTTP/1.1[0m" 200 -
+Data Push Started...Mixing
+Reading Settings...Mixing
+Reading Settings...Mixing
+Mixing dateparam: 2020-03-14
+Mixing self._date: 2020-03-14
+Mixing 0 records found
+DB Push Completed...Mixing
+127.0.0.1 - - [15/Mar/2020 21:20:17] "[37mPOST /api_analyze/services/gethome HTTP/1.1[0m" 200 -

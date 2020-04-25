@@ -1,0 +1,6 @@
+Field	Value
+COLLECTION	Archive-opc-wet_weight
+JSON	{'time_stamp':'Archive-opc-wet_weight_TIMESTAMP_EP','time':'Archive-opc-wet_weight_TIMESTAMP','wet_continuous_weight':'wet_continuous_weight','totaliser':'totaliser','sample_weight':'sample_weight','sample_bit':'sample_bit'}
+KEYS	['Wet Weight']
+SEQ	Wet Weight
+REPORTKEYS	['Wet Weight']

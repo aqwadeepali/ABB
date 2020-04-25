@@ -1,0 +1,6 @@
+Field	Value
+COLLECTION	Archive-VFD-S-A
+JSON	{'time_stamp':'Archive-VFD-S-A_TIMESTAMP_EP','time':'Archive-VFD-S-A_TIMESTAMP','moulder_rpm_actual':'MOULDER_ACT:Actual_Value','moulder_rpm_sp':'MOULDER_SET_RPM:Actual_Value','moulder_freq':'MoulderAmps:Actual_Value','paner_web_rpm_actual':'PANNER_WEB_ACT:Actual_Value','paner_web_rpm_sp':'PANNER_WEB_SET_RPM:Actual_Value','paner_web_freq':'PannerAmps:Actual_Value','forcing_roller_rpm_actual':'FORCING_ROLLER_ACT:Actual_Value','forcing_roller_rpm_sp':'FORCING_ROLLER_SET_RPM:Actual_Value','forcing_roller_freq':'ForcingAmps:Actual_Value','wire_band_rpm_actual':'WIRE_BAND_ACT:Actual_Value','wire_band_rpm_sp':'WIRE_BAND_SET_RPM:Actual_Value','wire_band_freq':'WireBandAmps:Actual_Value','wet_check_weigher_conveyer_rpm_actual':'INTER_WEB_ACT:Actual_Value','wet_check_weigher_conveyer_rpm_sp':'INTER_WEB_SET_RPM:Actual_Value','wet_check_weigher_conveyer_freq':'InterWebAmps:Actual_Value', 'baking_time':'Baking_Time_Min:Actual_Value'}
+KEYS	['Moulder', 'Paner Web', 'Forcing Roller', 'Wire Band', 'Wet Check Weigher Conveyer']
+SEQ	Moulder,Paner Web,Forcing Roller,Wire Band,Wet Check Weigher Conveyer
+REPORTKEYS	['Moulder', 'Paner Web', 'Forcing Roller', 'Wire Band', 'Wet Check Weigher Conveyer']

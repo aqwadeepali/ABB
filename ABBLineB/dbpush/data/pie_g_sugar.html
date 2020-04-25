@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/highcharts/highcharts/highslide.css" rel="stylesheet" />
+        <script type="text/javascript" src="/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/highcharts/highcharts/jquery.min.js"></script>
+        <script type="text/javascript" src="/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/highcharts/highcharts/highcharts.js"></script>
+        <script type="text/javascript" src="/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/highcharts/highcharts/highcharts-more.js"></script>
+        <script type="text/javascript" src="/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/highcharts/highcharts/heatmap.js"></script>
+        <script type="text/javascript" src="/Users/deepalimahajan/DeepaliData/UnOfficial/ABBAll/ABB/ABBLineB/classes/highcharts/highcharts/exporting.js"></script>
+    </head>
+    <body style="margin:0;padding:0">
+                <div id="container" style="width:250px;height:250px;">Loading....</div>
+
+
+    <script>
+        $(function(){
+
+
+
+
+
+            Highcharts.setOptions({"lang": {}, "global": {}});
+            var option = {"loading": {}, "subtitle": {}, "xAxis": {}, "title": {"y": -10, "text": "<div class=\"text-reading text-center\" style=\"font-weight:normal;font-family:Roboto,Helvetica Neue,Helvetica\">Alerts <div class=\"text-center\" style=\"padding-left:7px;font-weight:bold;color:#7f7f7f;\">123%</div></div>", "align": "center", "verticalAlign": "middle", "useHTML": true}, "series": {}, "labels": {}, "yAxis": {}, "chart": {"spacingRight": 0, "width": 250, "animation": {"duration": 0}, "spacingBottom": 5, "spacingTop": 5, "renderTo": "container", "type": "pie", "spacingLeft": 0, "height": 250}, "tooltip": {"valueSuffix": "%"}, "plotOptions": {"series": {"states": {"hover": {"lineWidth": 1, "halo": {"size": 2}}}, "animation": false}, "pie": {"shadow": false, "center": ["50%", "50%"], "dataLabels": {"enabled": false}}}, "credits": {"enabled": false}, "colors": {}, "pane": {}, "exporting": {"enabled": false}, "drilldown": {}, "navigation": {}, "legend": {}};
+
+
+ 
+
+            var chart = new Highcharts.Chart(option);
+
+            var data = [{"innerSize": 195, "name": "pie_g_sugar", "type": "pie", "data": [{"color": "#7b074e", "y": 123.0, "name": "Target Acheived"}, {"color": "#077b34", "y": -23.0, "name": "Target Missed"}], "size": 220}];
+            var dataLen = data.length;
+            for (var ix = 0; ix < dataLen; ix++) {
+                chart.addSeries(data[ix]);
+            }
+ 
+
+
+
+
+
+
+
+        
+    });
+        </script>
+
+    </body>
+</html>

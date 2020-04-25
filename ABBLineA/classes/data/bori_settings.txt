@@ -1,0 +1,6 @@
+Field	Value
+COLLECTION	Archive-opc-BORI
+JSON	{'time_stamp':'Archive-opc-BORI_TIMESTAMP_EP','time':'Archive-opc-BORI_TIMESTAMP','batch_count':'Batch_Count:Actual_Value','8_ton_silo1_set':'8_ton_silo1_Set:Actual_Value','8_ton_silo1_act':'8_ton_silo1_act:Actual_Value','8_ton_silo1_bool':'8_Ton_Silo1_Bool:Filling','8_ton_silo2_set':'8_ton_silo2_Set:Actual_Value','8_ton_silo2_act':'8_ton_silo2_act:Actual_Value','8_ton_silo2_bool':'8_Ton_Silo2_Bool:Filling','8_ton_silo3_set':'8_ton_silo3_Set:Actual_Value','8_ton_silo3_act':'8_ton_silo3_act:Actual_Value','8_ton_silo3_bool':'8_Ton_Silo3_Bool:Filling'}
+KEYS	['8_ton_silo1', '8_ton_silo2', '8_ton_silo3']
+SEQ	8_ton_silo1,8_ton_silo2,8_ton_silo3
+REPORTKEYS	['8_ton_silo1', '8_ton_silo2', '8_ton_silo3']

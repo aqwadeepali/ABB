@@ -1,0 +1,30 @@
+:host{
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+  z-index: 99997;
+}
+
+.load-mask{
+  background: rgba(75, 76, 75, 0.85);
+  height: 100%;
+}
+
+@keyframes ui-progress-spinner-color {
+    100%,
+    0% {
+        stroke: #d62d20;
+    }
+    40% {
+        stroke: #0057e7;
+    }
+    66% {
+        stroke: #008744;
+    }
+    80%,
+    90% {
+        stroke: #ffa700;
+    }
+}

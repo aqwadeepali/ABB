@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="/DeepaliData/Workspace/ABB/ABBLineA/classes/highcharts/highcharts/highslide.css" rel="stylesheet" />
+        <script type="text/javascript" src="/DeepaliData/Workspace/ABB/ABBLineA/classes/highcharts/highcharts/jquery.min.js"></script>
+        <script type="text/javascript" src="/DeepaliData/Workspace/ABB/ABBLineA/classes/highcharts/highcharts/highcharts.js"></script>
+        <script type="text/javascript" src="/DeepaliData/Workspace/ABB/ABBLineA/classes/highcharts/highcharts/highcharts-more.js"></script>
+        <script type="text/javascript" src="/DeepaliData/Workspace/ABB/ABBLineA/classes/highcharts/highcharts/heatmap.js"></script>
+        <script type="text/javascript" src="/DeepaliData/Workspace/ABB/ABBLineA/classes/highcharts/highcharts/exporting.js"></script>
+    </head>
+    <body style="margin:0;padding:0">
+                <div id="container" style="width:1100px;height:400px;">Loading....</div>
+
+
+    <script>
+        $(function(){
+
+
+
+
+
+            Highcharts.setOptions({"lang": {}, "global": {}});
+            var option = {"loading": {}, "subtitle": {}, "xAxis": {"lineWidth": 0.05, "tickLength": 0, "title": {"text": ""}, "minPadding": 1.5, "labels": {"align": "left", "style": {"color": "#000000"}, "overflow": "justify", "rotation": 45}, "type": "datetime", "categories": ["22:30", "23:30", "00:30", "01:30", "02:30", "03:30", "04:30", "05:30"]}, "title": {"text": ""}, "series": {}, "labels": {}, "yAxis": [{"gridLineColor": "#808080", "lineWidth": 0.5, "gridLineDashStyle": "Dot", "opposite": false, "title": {"text": ""}, "labels": {"overflow": "justify", "enabled": true, "style": {"color": "#000000"}}, "reversedStacks": false, "gridLineWidth": 0.5}, {"gridLineColor": "#808080", "lineWidth": 0.5, "gridLineDashStyle": "Dot", "opposite": true, "title": {"text": ""}, "labels": {"overflow": "justify", "enabled": true, "style": {"color": "#000000"}}, "reversedStacks": false, "gridLineWidth": 0.5}], "chart": {"spacingRight": 55, "width": 1100, "animation": {"duration": 0}, "spacingBottom": 10, "spacingTop": 10, "renderTo": "container", "type": "line", "spacingLeft": 5, "height": 400}, "tooltip": {"valueSuffix": "%"}, "plotOptions": {"series": {"turboThreshold": 3000, "animation": false}, "line": {"marker": {"enabled": false}, "allowPointSelect": false, "dataLabels": {"enabled": false}}}, "credits": {"enabled": false}, "colors": {}, "pane": {}, "exporting": {"enabled": false}, "drilldown": {}, "navigation": {}, "legend": {}};
+
+
+ 
+
+            var chart = new Highcharts.Chart(option);
+
+            var data = [{"name": "Set Temp", "color": "#662441", "type": "line", "data": [{"category": "2019-07-13 22:30", "y": 222}, {"category": "2019-07-13 23:30", "y": 222}, {"category": "2019-07-14 00:30", "y": 222}, {"category": "2019-07-14 01:30", "y": 222}, {"category": "2019-07-14 02:30", "y": 222}, {"category": "2019-07-14 03:30", "y": 222}, {"category": "2019-07-14 04:30", "y": 222}, {"category": "2019-07-14 05:30", "y": 222}]}, {"name": "Actual Temp", "color": "#e34566", "type": "line", "data": [{"category": "2019-07-13 22:30", "y": 219.4}, {"category": "2019-07-13 23:30", "y": 220}, {"category": "2019-07-14 00:30", "y": 218.9}, {"category": "2019-07-14 01:30", "y": 220.2}, {"category": "2019-07-14 02:30", "y": 218.9}, {"category": "2019-07-14 03:30", "y": 220}, {"category": "2019-07-14 04:30", "y": 221.7}, {"category": "2019-07-14 05:30", "y": 219.9}]}];
+            var dataLen = data.length;
+            for (var ix = 0; ix < dataLen; ix++) {
+                chart.addSeries(data[ix]);
+            }
+ 
+
+
+
+
+
+
+
+        
+    });
+        </script>
+
+    </body>
+</html>

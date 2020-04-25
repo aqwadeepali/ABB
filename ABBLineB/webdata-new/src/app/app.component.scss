@@ -1,0 +1,17 @@
+:host{
+    background-color: #e9ebee;
+}
+#fullpage {
+    display: flex;
+    background-color: #e9ebee;
+    flex-direction: column;
+}
+
+.inner-content {
+    overflow: auto;
+    position: absolute;
+    bottom:30px;
+    left:0;
+    right:0;
+    top:36px;
+  }

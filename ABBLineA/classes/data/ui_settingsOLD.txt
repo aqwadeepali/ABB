@@ -1,0 +1,6 @@
+Field	Value
+STAGE_TIME	15:59
+UI_TIME	06:34
+TIME_FLAG	True
+EMAIL_LIST	['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+TILE	[{'name': 'Mixing', 'value': True}, {'name': 'Moulder', 'value': True}, {'name': 'Oven', 'value': True}, {'name': 'Bori', 'value': True}, {'name': 'CMS', 'value': False}, {'name': 'Wet Weight', 'value': False}, {'name': 'Losses', 'value': False}, {'name': 'Packing', 'value': True}]

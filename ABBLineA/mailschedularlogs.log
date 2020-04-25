@@ -1,0 +1,1592 @@
+2019-06-11 09:33:57,391 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-06-11 09:33:57)
+2019-06-11 09:33:57,403 - root - INFO - Job Started...
+2019-06-11 09:33:57,414 - root - INFO - Reading Settings
+2019-06-11 09:33:57,467 - root - INFO - 09:33
+2019-06-11 09:33:57,480 - root - INFO - No Report Sharing...
+2019-06-11 09:33:57,489 - root - INFO - DB Push Sleeping...
+2019-06-11 09:34:57,532 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-06-11 09:33:57, next run: 2019-06-11 09:34:57)
+2019-06-11 09:34:57,539 - root - INFO - Job Started...
+2019-06-11 09:34:57,545 - root - INFO - Reading Settings
+2019-06-11 09:34:57,588 - root - INFO - 09:34
+2019-06-11 09:34:57,598 - root - INFO - No Report Sharing...
+2019-06-11 09:34:57,608 - root - INFO - DB Push Sleeping...
+2019-06-11 09:35:57,654 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-06-11 09:34:57, next run: 2019-06-11 09:35:57)
+2019-06-11 09:35:57,661 - root - INFO - Job Started...
+2019-06-11 09:35:57,667 - root - INFO - Reading Settings
+2019-06-11 09:35:57,709 - root - INFO - 09:35
+2019-06-11 09:35:57,720 - root - INFO - No Report Sharing...
+2019-06-11 09:35:57,729 - root - INFO - DB Push Sleeping...
+2019-06-11 09:37:42,819 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-06-11 09:37:42)
+2019-06-11 09:37:42,832 - root - INFO - Job Started...
+2019-06-11 09:37:42,854 - root - INFO - Reading Settings
+2019-06-11 09:37:42,937 - root - INFO - 09:37
+2019-06-11 09:37:42,953 - root - INFO - No Report Sharing...
+2019-06-11 09:37:42,967 - root - INFO - DB Push Sleeping...
+2019-06-11 09:39:34,921 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-06-11 09:39:34)
+2019-06-11 09:39:34,940 - root - INFO - Job Started...
+2019-06-11 09:39:34,973 - root - INFO - Reading Settings
+2019-06-11 09:39:35,183 - root - INFO - 09:39
+2019-06-11 09:39:35,210 - root - INFO - Setting Flag...True
+2019-06-11 09:39:35,230 - root - INFO - Dashboards Report Download.........................Started
+2019-06-11 09:39:35,240 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:35,394 - root - INFO - Reading Params....Mixing
+2019-06-11 09:39:35,403 - root - INFO - File Ready to Use...Mixing
+2019-06-11 09:39:35,410 - root - INFO - -------------------------
+2019-06-11 09:39:35,417 - root - INFO - Reading Settings...Moulder
+2019-06-11 09:39:35,598 - root - INFO - Reading Params....Moulder
+2019-06-11 09:39:35,605 - root - INFO - File Ready to Use...Moulder
+2019-06-11 09:39:35,614 - root - INFO - -------------------------
+2019-06-11 09:39:35,619 - root - INFO - Reading Settings
+2019-06-11 09:39:35,696 - root - INFO - Reading Params....Oven
+2019-06-11 09:39:35,703 - root - INFO - File Ready to Use...Oven
+2019-06-11 09:39:35,710 - root - INFO - -------------------------
+2019-06-11 09:39:35,716 - root - INFO - Reading Settings...Bori
+2019-06-11 09:39:35,727 - root - INFO - Reading Params....Bori
+2019-06-11 09:39:35,733 - root - INFO - File Ready to Use...Bori
+2019-06-11 09:39:35,740 - root - INFO - -------------------------
+2019-06-11 09:39:35,746 - root - INFO - Reading Settings
+2019-06-11 09:39:35,819 - root - INFO - Reading Params....
+2019-06-11 09:39:35,826 - root - INFO - 
+2019-06-11 09:39:35,836 - root - INFO - File Ready to Use...
+2019-06-11 09:39:35,845 - root - INFO - -------------------------
+2019-06-11 09:39:35,858 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:35,869 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:36,913 - root - INFO - Data Push Started...Mixing
+2019-06-11 09:39:36,924 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:36,986 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:37,000 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:39:39,086 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:39:39,101 - root - INFO - Mixing 0 records found
+2019-06-11 09:39:39,142 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:39,188 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:39:39,851 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:39:39,861 - root - INFO - Mixing 0 records found
+2019-06-11 09:39:39,882 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:39,901 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:39:40,184 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:39:40,194 - root - INFO - Mixing 0 records found
+2019-06-11 09:39:40,204 - root - INFO - DB Push Completed...Mixing
+2019-06-11 09:39:56,914 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:56,944 - root - INFO - Data Push Started...Mixing
+2019-06-11 09:39:56,950 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:56,961 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:56,976 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:39:57,263 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:39:57,273 - root - INFO - Mixing 0 records found
+2019-06-11 09:39:57,279 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:57,290 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:39:57,575 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:39:57,582 - root - INFO - Mixing 0 records found
+2019-06-11 09:39:57,588 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:39:57,598 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:39:57,750 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:39:57,760 - root - INFO - Mixing 0 records found
+2019-06-11 09:39:57,769 - root - INFO - DB Push Completed...Mixing
+2019-06-11 09:40:00,411 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:40:00,493 - root - INFO - Data Push Started...Mixing
+2019-06-11 09:40:00,519 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:40:00,532 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:40:00,548 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:40:01,292 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:40:01,325 - root - INFO - Mixing 0 records found
+2019-06-11 09:40:01,348 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:40:01,364 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:40:02,098 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:40:02,111 - root - INFO - Mixing 0 records found
+2019-06-11 09:40:02,121 - root - INFO - Reading Settings...Mixing
+2019-06-11 09:40:02,134 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 09:40:02,401 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 09:40:02,453 - root - INFO - Mixing 0 records found
+2019-06-11 09:40:02,463 - root - INFO - DB Push Completed...Mixing
+2019-06-11 09:40:06,319 - root - INFO - ['C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Milk Bikis_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Nutri Choice_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Nice_2019-06-10.pdf']
+2019-06-11 09:40:06,348 - root - INFO - Saving Report...Moulder
+2019-06-11 09:40:06,522 - root - INFO - Data not available in staging... Getting From Mains...Moulder
+2019-06-11 09:40:06,581 - root - INFO - Data Push Started...Moulder
+2019-06-11 09:40:06,592 - root - INFO - Moulder dateparam: 2019-06-10
+2019-06-11 09:40:07,605 - root - INFO - Moulder self._date: 2019-06-10
+2019-06-11 09:40:07,638 - root - INFO - No Data...Moulder
+2019-06-11 09:40:07,667 - root - INFO - 0
+2019-06-11 09:40:09,382 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Moulder_Report_2019-06-10.pdf
+2019-06-11 09:40:09,391 - root - INFO - Saving Report...Downtime
+2019-06-11 09:40:09,460 - root - INFO - 0
+2019-06-11 09:40:10,815 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Moulder_DownTime_Report_2019-06-10.pdf
+2019-06-11 09:40:10,823 - root - INFO - Saving Report...Oven
+2019-06-11 09:40:11,016 - root - INFO - Data not available in staging... Getting From Mains...Oven
+2019-06-11 09:40:11,025 - root - INFO - Data Push Started...Oven
+2019-06-11 09:40:11,032 - root - INFO - Oven dateparam: 2019-06-10
+2019-06-11 09:40:11,269 - root - INFO - Oven self._date: 2019-06-10
+2019-06-11 09:40:11,278 - root - INFO - No Data...Oven
+2019-06-11 09:40:11,323 - root - INFO - 0
+2019-06-11 09:40:12,698 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Oven_Report_2019-06-10.pdf
+2019-06-11 09:40:12,709 - root - INFO - Saving Report...Bori
+2019-06-11 09:40:12,785 - root - INFO - Data not available in staging... Getting From Mains...Bori
+2019-06-11 09:40:12,792 - root - INFO - Data Push Started...Bori
+2019-06-11 09:40:12,799 - root - INFO - Bori dateparam: 2019-06-10
+2019-06-11 09:40:13,062 - root - INFO - Bori self._date: 2019-06-10
+2019-06-11 09:40:13,072 - root - INFO - No Data...Bori
+2019-06-11 09:40:13,082 - root - INFO - 0
+2019-06-11 09:40:14,492 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Bori_Report_2019-06-10.pdf
+2019-06-11 09:40:14,500 - root - INFO - 
+2019-06-11 09:40:14,507 - root - INFO - 
+2019-06-11 09:40:14,516 - root - INFO - Saving Report...Packing
+2019-06-11 09:40:14,523 - root - INFO - Reading Settings
+2019-06-11 09:40:14,559 - root - INFO - Data not available in staging... Getting From Mains...
+2019-06-11 09:40:14,568 - root - INFO - Data Push Started...
+2019-06-11 09:40:14,578 - root - INFO - dateparam: 2019-06-10
+2019-06-11 09:40:14,898 - root - INFO - self._date: 2019-06-10
+2019-06-11 09:40:14,907 - root - INFO - No Data...Packing
+2019-06-11 09:40:14,917 - root - INFO - 0
+2019-06-11 09:40:14,927 - root - INFO - Reading Settings
+2019-06-11 09:40:14,963 - root - INFO - Data not available in staging... Getting From Mains...
+2019-06-11 09:40:14,973 - root - INFO - Data Push Started...
+2019-06-11 09:40:14,980 - root - INFO - dateparam: 2019-06-10
+2019-06-11 09:40:15,148 - root - INFO - self._date: 2019-06-10
+2019-06-11 09:40:15,157 - root - INFO - No Data...PackingCBB
+2019-06-11 09:40:15,164 - root - INFO - 0
+2019-06-11 09:40:16,599 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Packing_Demo_2019-06-10.pdf
+2019-06-11 09:40:16,608 - root - INFO - 
+2019-06-11 09:40:16,790 - root - INFO - Sending Email Reports..............................
+2019-06-11 09:40:16,798 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-06-11 09:40:16,806 - root - INFO - mailSentFlag--- False
+2019-06-11 10:05:19,255 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-06-11 10:05:19)
+2019-06-11 10:05:19,269 - root - INFO - Job Started...
+2019-06-11 10:05:19,280 - root - INFO - Reading Settings
+2019-06-11 10:05:19,346 - root - INFO - 10:05
+2019-06-11 10:05:19,361 - root - INFO - Setting Flag...True
+2019-06-11 10:05:19,397 - root - INFO - Dashboards Report Download.........................Started
+2019-06-11 10:05:19,407 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:19,417 - root - INFO - Reading Params....Mixing
+2019-06-11 10:05:19,424 - root - INFO - File Ready to Use...Mixing
+2019-06-11 10:05:19,433 - root - INFO - -------------------------
+2019-06-11 10:05:19,440 - root - INFO - Reading Settings...Moulder
+2019-06-11 10:05:19,450 - root - INFO - Reading Params....Moulder
+2019-06-11 10:05:19,457 - root - INFO - File Ready to Use...Moulder
+2019-06-11 10:05:19,464 - root - INFO - -------------------------
+2019-06-11 10:05:19,474 - root - INFO - Reading Settings
+2019-06-11 10:05:19,480 - root - INFO - Reading Params....Oven
+2019-06-11 10:05:19,489 - root - INFO - File Ready to Use...Oven
+2019-06-11 10:05:19,497 - root - INFO - -------------------------
+2019-06-11 10:05:19,506 - root - INFO - Reading Settings...Bori
+2019-06-11 10:05:19,513 - root - INFO - Reading Params....Bori
+2019-06-11 10:05:19,523 - root - INFO - File Ready to Use...Bori
+2019-06-11 10:05:19,532 - root - INFO - -------------------------
+2019-06-11 10:05:19,542 - root - INFO - Reading Settings
+2019-06-11 10:05:19,549 - root - INFO - Reading Params....
+2019-06-11 10:05:19,556 - root - INFO - 
+2019-06-11 10:05:19,565 - root - INFO - File Ready to Use...
+2019-06-11 10:05:19,572 - root - INFO - -------------------------
+2019-06-11 10:05:19,579 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:19,586 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:19,618 - root - INFO - Data Push Started...Mixing
+2019-06-11 10:05:19,625 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:19,634 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:19,644 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:19,891 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:19,898 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:19,904 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:19,915 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:20,101 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:20,109 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:20,115 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:20,125 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:20,247 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:20,257 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:20,265 - root - INFO - DB Push Completed...Mixing
+2019-06-11 10:05:22,437 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:22,477 - root - INFO - Data Push Started...Mixing
+2019-06-11 10:05:22,486 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:22,497 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:22,509 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:22,753 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:22,759 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:22,766 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:22,779 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:22,976 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:22,986 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:22,993 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:23,003 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:23,130 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:23,138 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:23,144 - root - INFO - DB Push Completed...Mixing
+2019-06-11 10:05:24,967 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:24,997 - root - INFO - Data Push Started...Mixing
+2019-06-11 10:05:25,005 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:25,016 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:25,026 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:25,266 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:25,276 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:25,285 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:25,296 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:25,490 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:25,497 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:25,505 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:25,513 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:05:25,640 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:05:25,647 - root - INFO - Mixing 0 records found
+2019-06-11 10:05:25,654 - root - INFO - DB Push Completed...Mixing
+2019-06-11 10:05:27,477 - root - INFO - ['C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Milk Bikis_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Nutri Choice_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Nice_2019-06-10.pdf']
+2019-06-11 10:05:27,489 - root - INFO - Saving Report...Moulder
+2019-06-11 10:05:27,529 - root - INFO - Data not available in staging... Getting From Mains...Moulder
+2019-06-11 10:05:27,542 - root - INFO - Data Push Started...Moulder
+2019-06-11 10:05:27,549 - root - INFO - Moulder dateparam: 2019-06-10
+2019-06-11 10:05:27,773 - root - INFO - Moulder self._date: 2019-06-10
+2019-06-11 10:05:27,780 - root - INFO - No Data...Moulder
+2019-06-11 10:05:27,792 - root - INFO - 0
+2019-06-11 10:05:29,009 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Moulder_Report_2019-06-10.pdf
+2019-06-11 10:05:29,017 - root - INFO - Saving Report...Downtime
+2019-06-11 10:05:29,085 - root - INFO - 0
+2019-06-11 10:05:30,763 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Moulder_DownTime_Report_2019-06-10.pdf
+2019-06-11 10:05:30,792 - root - INFO - Saving Report...Oven
+2019-06-11 10:05:30,976 - root - INFO - Data not available in staging... Getting From Mains...Oven
+2019-06-11 10:05:30,987 - root - INFO - Data Push Started...Oven
+2019-06-11 10:05:30,996 - root - INFO - Oven dateparam: 2019-06-10
+2019-06-11 10:05:31,190 - root - INFO - Oven self._date: 2019-06-10
+2019-06-11 10:05:31,200 - root - INFO - No Data...Oven
+2019-06-11 10:05:31,256 - root - INFO - 0
+2019-06-11 10:05:32,805 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Oven_Report_2019-06-10.pdf
+2019-06-11 10:05:32,815 - root - INFO - Saving Report...Bori
+2019-06-11 10:05:32,881 - root - INFO - Data not available in staging... Getting From Mains...Bori
+2019-06-11 10:05:32,888 - root - INFO - Data Push Started...Bori
+2019-06-11 10:05:32,895 - root - INFO - Bori dateparam: 2019-06-10
+2019-06-11 10:05:33,016 - root - INFO - Bori self._date: 2019-06-10
+2019-06-11 10:05:33,023 - root - INFO - No Data...Bori
+2019-06-11 10:05:33,032 - root - INFO - 0
+2019-06-11 10:05:34,348 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Bori_Report_2019-06-10.pdf
+2019-06-11 10:05:34,358 - root - INFO - 
+2019-06-11 10:05:34,365 - root - INFO - 
+2019-06-11 10:05:34,374 - root - INFO - Saving Report...Packing
+2019-06-11 10:05:34,381 - root - INFO - Reading Settings
+2019-06-11 10:05:34,407 - root - INFO - Data not available in staging... Getting From Mains...
+2019-06-11 10:05:34,414 - root - INFO - Data Push Started...
+2019-06-11 10:05:34,421 - root - INFO - dateparam: 2019-06-10
+2019-06-11 10:05:34,559 - root - INFO - self._date: 2019-06-10
+2019-06-11 10:05:34,569 - root - INFO - No Data...Packing
+2019-06-11 10:05:34,578 - root - INFO - 0
+2019-06-11 10:05:34,585 - root - INFO - Reading Settings
+2019-06-11 10:05:34,611 - root - INFO - Data not available in staging... Getting From Mains...
+2019-06-11 10:05:34,618 - root - INFO - Data Push Started...
+2019-06-11 10:05:34,625 - root - INFO - dateparam: 2019-06-10
+2019-06-11 10:05:34,753 - root - INFO - self._date: 2019-06-10
+2019-06-11 10:05:34,760 - root - INFO - No Data...PackingCBB
+2019-06-11 10:05:34,770 - root - INFO - 0
+2019-06-11 10:05:36,161 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Packing_Demo_2019-06-10.pdf
+2019-06-11 10:05:36,170 - root - INFO - 
+2019-06-11 10:05:36,302 - root - INFO - Sending Email Reports..............................
+2019-06-11 10:05:36,309 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-06-11 10:05:36,315 - root - INFO - mailSentFlag--- False
+2019-06-11 10:05:46,161 - root - INFO - mailSentFlag --- True
+2019-06-11 10:05:46,171 - root - INFO - Email Sent...
+2019-06-11 10:05:46,190 - root - INFO - Dashboard Report Download.........................Started
+2019-06-11 10:05:46,198 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:46,210 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:05:46,746 - root - INFO - pie_maida.html ---to--- pie_maida.png
+2019-06-11 10:05:51,726 - root - INFO - line_maida.html ---to--- line_maida.png
+2019-06-11 10:05:52,730 - root - INFO - pie_salt_sol.html ---to--- pie_salt_sol.png
+2019-06-11 10:05:53,740 - root - INFO - line_salt_sol.html ---to--- line_salt_sol.png
+2019-06-11 10:05:54,726 - root - INFO - pie_sbc.html ---to--- pie_sbc.png
+2019-06-11 10:05:55,700 - root - INFO - line_sbc.html ---to--- line_sbc.png
+2019-06-11 10:05:56,720 - root - INFO - pie_vitamin.html ---to--- pie_vitamin.png
+2019-06-11 10:05:57,700 - root - INFO - line_vitamin.html ---to--- line_vitamin.png
+2019-06-11 10:05:58,845 - root - INFO - pie_calcium.html ---to--- pie_calcium.png
+2019-06-11 10:05:59,862 - root - INFO - line_calcium.html ---to--- line_calcium.png
+2019-06-11 10:06:00,897 - root - INFO - pie_abc.html ---to--- pie_abc.png
+2019-06-11 10:06:01,874 - root - INFO - line_abc.html ---to--- line_abc.png
+2019-06-11 10:06:03,028 - root - INFO - pie_salt_pow.html ---to--- pie_salt_pow.png
+2019-06-11 10:06:04,007 - root - INFO - line_salt_pow.html ---to--- line_salt_pow.png
+2019-06-11 10:06:05,023 - root - INFO - pie_lecithin.html ---to--- pie_lecithin.png
+2019-06-11 10:06:05,977 - root - INFO - line_lecithin.html ---to--- line_lecithin.png
+2019-06-11 10:06:07,020 - root - INFO - pie_gms.html ---to--- pie_gms.png
+2019-06-11 10:06:08,051 - root - INFO - line_gms.html ---to--- line_gms.png
+2019-06-11 10:06:09,082 - root - INFO - pie_smp.html ---to--- pie_smp.png
+2019-06-11 10:06:10,086 - root - INFO - line_smp.html ---to--- line_smp.png
+2019-06-11 10:06:11,071 - root - INFO - pie_milk.html ---to--- pie_milk.png
+2019-06-11 10:06:12,091 - root - INFO - line_milk.html ---to--- line_milk.png
+2019-06-11 10:06:13,099 - root - INFO - pie_syrup.html ---to--- pie_syrup.png
+2019-06-11 10:06:14,073 - root - INFO - line_syrup.html ---to--- line_syrup.png
+2019-06-11 10:06:15,138 - root - INFO - pie_vannila.html ---to--- pie_vannila.png
+2019-06-11 10:06:16,250 - root - INFO - line_vannila.html ---to--- line_vannila.png
+2019-06-11 10:06:17,313 - root - INFO - pie_ffm.html ---to--- pie_ffm.png
+2019-06-11 10:06:18,302 - root - INFO - line_ffm.html ---to--- line_ffm.png
+2019-06-11 10:06:19,506 - root - INFO - pie_water.html ---to--- pie_water.png
+2019-06-11 10:06:20,619 - root - INFO - line_water.html ---to--- line_water.png
+2019-06-11 10:06:21,634 - root - INFO - pie_biscuit_dust.html ---to--- pie_biscuit_dust.png
+2019-06-11 10:06:22,592 - root - INFO - line_biscuit_dust.html ---to--- line_biscuit_dust.png
+2019-06-11 10:06:23,573 - root - INFO - pie_sugar.html ---to--- pie_sugar.png
+2019-06-11 10:06:24,576 - root - INFO - line_sugar.html ---to--- line_sugar.png
+2019-06-11 10:06:25,601 - root - INFO - pie_palm_oil.html ---to--- pie_palm_oil.png
+2019-06-11 10:06:26,576 - root - INFO - line_palm_oil.html ---to--- line_palm_oil.png
+2019-06-11 10:06:27,638 - root - INFO - pie_bil.html ---to--- pie_bil.png
+2019-06-11 10:06:28,618 - root - INFO - line_bil.html ---to--- line_bil.png
+2019-06-11 10:06:33,131 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:06:33,542 - root - INFO - pie_maida.html ---to--- pie_maida.png
+2019-06-11 10:06:34,762 - root - INFO - line_maida.html ---to--- line_maida.png
+2019-06-11 10:06:35,901 - root - INFO - pie_sugar.html ---to--- pie_sugar.png
+2019-06-11 10:06:37,155 - root - INFO - line_sugar.html ---to--- line_sugar.png
+2019-06-11 10:06:38,118 - root - INFO - pie_palm_oil.html ---to--- pie_palm_oil.png
+2019-06-11 10:06:39,128 - root - INFO - line_palm_oil.html ---to--- line_palm_oil.png
+2019-06-11 10:06:40,141 - root - INFO - pie_smp.html ---to--- pie_smp.png
+2019-06-11 10:06:41,101 - root - INFO - line_smp.html ---to--- line_smp.png
+2019-06-11 10:06:42,138 - root - INFO - pie_lecithin.html ---to--- pie_lecithin.png
+2019-06-11 10:06:43,094 - root - INFO - line_lecithin.html ---to--- line_lecithin.png
+2019-06-11 10:06:44,104 - root - INFO - pie_datum.html ---to--- pie_datum.png
+2019-06-11 10:06:45,164 - root - INFO - line_datum.html ---to--- line_datum.png
+2019-06-11 10:06:46,184 - root - INFO - pie_salt_sol.html ---to--- pie_salt_sol.png
+2019-06-11 10:06:47,144 - root - INFO - line_salt_sol.html ---to--- line_salt_sol.png
+2019-06-11 10:06:48,151 - root - INFO - pie_malt.html ---to--- pie_malt.png
+2019-06-11 10:06:49,279 - root - INFO - line_malt.html ---to--- line_malt.png
+2019-06-11 10:06:50,312 - root - INFO - pie_glocuse.html ---to--- pie_glocuse.png
+2019-06-11 10:06:51,342 - root - INFO - line_glocuse.html ---to--- line_glocuse.png
+2019-06-11 10:06:52,341 - root - INFO - pie_gms.html ---to--- pie_gms.png
+2019-06-11 10:06:53,417 - root - INFO - line_gms.html ---to--- line_gms.png
+2019-06-11 10:06:54,470 - root - INFO - pie_water.html ---to--- pie_water.png
+2019-06-11 10:06:55,509 - root - INFO - line_water.html ---to--- line_water.png
+2019-06-11 10:06:56,499 - root - INFO - pie_salt_pow.html ---to--- pie_salt_pow.png
+2019-06-11 10:06:57,480 - root - INFO - line_salt_pow.html ---to--- line_salt_pow.png
+2019-06-11 10:06:58,480 - root - INFO - pie_abc.html ---to--- pie_abc.png
+2019-06-11 10:06:59,476 - root - INFO - line_abc.html ---to--- line_abc.png
+2019-06-11 10:07:00,476 - root - INFO - pie_montreal_sugar.html ---to--- pie_montreal_sugar.png
+2019-06-11 10:07:01,502 - root - INFO - line_montreal_sugar.html ---to--- line_montreal_sugar.png
+2019-06-11 10:07:02,510 - root - INFO - pie_sbc.html ---to--- pie_sbc.png
+2019-06-11 10:07:03,548 - root - INFO - line_sbc.html ---to--- line_sbc.png
+2019-06-11 10:07:04,565 - root - INFO - pie_malton_dextrin.html ---to--- pie_malton_dextrin.png
+2019-06-11 10:07:05,588 - root - INFO - line_malton_dextrin.html ---to--- line_malton_dextrin.png
+2019-06-11 10:07:06,622 - root - INFO - pie_bgc_19.html ---to--- pie_bgc_19.png
+2019-06-11 10:07:07,599 - root - INFO - line_bgc_19.html ---to--- line_bgc_19.png
+2019-06-11 10:07:08,589 - root - INFO - pie_bm_29.html ---to--- pie_bm_29.png
+2019-06-11 10:07:09,694 - root - INFO - line_bm_29.html ---to--- line_bm_29.png
+2019-06-11 10:07:10,914 - root - INFO - pie_biscuit_dust.html ---to--- pie_biscuit_dust.png
+2019-06-11 10:07:12,091 - root - INFO - line_biscuit_dust.html ---to--- line_biscuit_dust.png
+2019-06-11 10:07:16,230 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:07:16,540 - root - INFO - pie_maida.html ---to--- pie_maida.png
+2019-06-11 10:07:17,618 - root - INFO - line_maida.html ---to--- line_maida.png
+2019-06-11 10:07:18,601 - root - INFO - pie_sugar.html ---to--- pie_sugar.png
+2019-06-11 10:07:19,641 - root - INFO - line_sugar.html ---to--- line_sugar.png
+2019-06-11 10:07:20,744 - root - INFO - pie_palm_oil.html ---to--- pie_palm_oil.png
+2019-06-11 10:07:22,104 - root - INFO - line_palm_oil.html ---to--- line_palm_oil.png
+2019-06-11 10:07:23,144 - root - INFO - pie_syrup.html ---to--- pie_syrup.png
+2019-06-11 10:07:24,161 - root - INFO - line_syrup.html ---to--- line_syrup.png
+2019-06-11 10:07:25,213 - root - INFO - pie_lecithin.html ---to--- pie_lecithin.png
+2019-06-11 10:07:26,190 - root - INFO - line_lecithin.html ---to--- line_lecithin.png
+2019-06-11 10:07:27,220 - root - INFO - pie_datum.html ---to--- pie_datum.png
+2019-06-11 10:07:28,180 - root - INFO - line_datum.html ---to--- line_datum.png
+2019-06-11 10:07:29,269 - root - INFO - pie_salt_sol.html ---to--- pie_salt_sol.png
+2019-06-11 10:07:30,313 - root - INFO - line_salt_sol.html ---to--- line_salt_sol.png
+2019-06-11 10:07:31,433 - root - INFO - pie_glocuse.html ---to--- pie_glocuse.png
+2019-06-11 10:07:32,414 - root - INFO - line_glocuse.html ---to--- line_glocuse.png
+2019-06-11 10:07:33,444 - root - INFO - pie_gms.html ---to--- pie_gms.png
+2019-06-11 10:07:34,421 - root - INFO - line_gms.html ---to--- line_gms.png
+2019-06-11 10:07:35,539 - root - INFO - pie_water.html ---to--- pie_water.png
+2019-06-11 10:07:36,578 - root - INFO - line_water.html ---to--- line_water.png
+2019-06-11 10:07:37,601 - root - INFO - pie_starch.html ---to--- pie_starch.png
+2019-06-11 10:07:38,542 - root - INFO - line_starch.html ---to--- line_starch.png
+2019-06-11 10:07:39,664 - root - INFO - pie_cocunut_milk.html ---to--- pie_cocunut_milk.png
+2019-06-11 10:07:40,698 - root - INFO - line_cocunut_milk.html ---to--- line_cocunut_milk.png
+2019-06-11 10:07:41,743 - root - INFO - pie_lactose.html ---to--- pie_lactose.png
+2019-06-11 10:07:42,713 - root - INFO - line_lactose.html ---to--- line_lactose.png
+2019-06-11 10:07:43,841 - root - INFO - pie_salt_pow.html ---to--- pie_salt_pow.png
+2019-06-11 10:07:44,875 - root - INFO - line_salt_pow.html ---to--- line_salt_pow.png
+2019-06-11 10:07:46,026 - root - INFO - pie_abc.html ---to--- pie_abc.png
+2019-06-11 10:07:47,167 - root - INFO - line_abc.html ---to--- line_abc.png
+2019-06-11 10:07:48,183 - root - INFO - pie_montreal_sugar.html ---to--- pie_montreal_sugar.png
+2019-06-11 10:07:49,276 - root - INFO - line_montreal_sugar.html ---to--- line_montreal_sugar.png
+2019-06-11 10:07:50,282 - root - INFO - pie_sbc.html ---to--- pie_sbc.png
+2019-06-11 10:07:51,315 - root - INFO - line_sbc.html ---to--- line_sbc.png
+2019-06-11 10:07:52,328 - root - INFO - pie_whey_powder.html ---to--- pie_whey_powder.png
+2019-06-11 10:07:53,361 - root - INFO - line_whey_powder.html ---to--- line_whey_powder.png
+2019-06-11 10:07:54,391 - root - INFO - pie_sapp.html ---to--- pie_sapp.png
+2019-06-11 10:07:55,418 - root - INFO - line_sapp.html ---to--- line_sapp.png
+2019-06-11 10:07:56,414 - root - INFO - pie_toasted_cocunut.html ---to--- pie_toasted_cocunut.png
+2019-06-11 10:07:57,380 - root - INFO - line_toasted_cocunut.html ---to--- line_toasted_cocunut.png
+2019-06-11 10:07:58,407 - root - INFO - pie_biscuit_dust.html ---to--- pie_biscuit_dust.png
+2019-06-11 10:07:59,375 - root - INFO - line_biscuit_dust.html ---to--- line_biscuit_dust.png
+2019-06-11 10:08:03,829 - root - INFO - ['C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Dashboard_Milk Bikis_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Dashboard_Nutri Choice_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Dashboard_Nice_2019-06-10.pdf']
+2019-06-11 10:08:03,836 - root - INFO - Saving Dashboard Report...Moulder
+2019-06-11 10:08:03,844 - root - INFO - Reading Settings...Moulder
+2019-06-11 10:08:03,880 - root - INFO - Data not available in staging... Getting From Mains...Moulder
+2019-06-11 10:08:03,888 - root - INFO - Data Push Started...Moulder
+2019-06-11 10:08:03,898 - root - INFO - Moulder dateparam: 2019-06-10
+2019-06-11 10:08:04,107 - root - INFO - Moulder self._date: 2019-06-10
+2019-06-11 10:08:04,114 - root - INFO - No Data...Moulder
+2019-06-11 10:08:04,130 - root - INFO - 0
+2019-06-11 10:08:06,075 - root - INFO - C:\Program Files\ItantaAnalytics\ABB\dbpush\data\Moulder_Dashboard_2019-06-10.pdf
+2019-06-11 10:08:06,082 - root - INFO - Saving Dashboard Report...Oven
+2019-06-11 10:08:06,091 - root - INFO - Reading Settings
+2019-06-11 10:08:06,148 - root - INFO - Data not available in staging... Getting From Mains...
+2019-06-11 10:08:06,155 - root - INFO - Data Push Started...Oven
+2019-06-11 10:08:06,161 - root - INFO - Oven dateparam: 2019-06-10
+2019-06-11 10:08:06,292 - root - INFO - Oven self._date: 2019-06-10
+2019-06-11 10:08:06,299 - root - INFO - No Data...Oven
+2019-06-11 10:08:06,335 - root - INFO - 0
+2019-06-11 10:08:06,382 - root - INFO - line_baking_efficiency_1.html ---to--- line_baking_efficiency_1.png
+2019-06-11 10:08:07,569 - root - INFO - line_baking_efficiency_2.html ---to--- line_baking_efficiency_2.png
+2019-06-11 10:08:08,618 - root - INFO - line_baking_efficiency_3.html ---to--- line_baking_efficiency_3.png
+2019-06-11 10:08:09,750 - root - ERROR - Fatal error in main exception
+Traceback (most recent call last):
+  File "mail_schedular.py", line 342, in job
+    oven_report = dbOvenManager.save_oven_home(format_dt) if allTiles["Oven"] == True else ""
+  File "C:\Program Files\ItantaAnalytics\ABB\classes\stage_oven_data.py", line 484, in save_oven_home
+    filename = self.get_oven_home(dateparam)
+  File "C:\Program Files\ItantaAnalytics\ABB\classes\stage_oven_data.py", line 1208, in get_oven_home
+    '<img height="400" src="'+imgname+'"/>'\
+KeyError: 'Average'
+2019-06-11 10:08:09,766 - root - ERROR - 'Average'
+Traceback (most recent call last):
+  File "mail_schedular.py", line 342, in job
+    oven_report = dbOvenManager.save_oven_home(format_dt) if allTiles["Oven"] == True else ""
+  File "C:\Program Files\ItantaAnalytics\ABB\classes\stage_oven_data.py", line 484, in save_oven_home
+    filename = self.get_oven_home(dateparam)
+  File "C:\Program Files\ItantaAnalytics\ABB\classes\stage_oven_data.py", line 1208, in get_oven_home
+    '<img height="400" src="'+imgname+'"/>'\
+KeyError: 'Average'
+2019-06-11 10:09:09,858 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-06-11 10:08:09, next run: 2019-06-11 10:09:09)
+2019-06-11 10:09:09,871 - root - INFO - Job Started...
+2019-06-11 10:09:09,882 - root - INFO - Reading Settings
+2019-06-11 10:09:09,931 - root - INFO - 10:09
+2019-06-11 10:09:09,947 - root - INFO - No Report Sharing...
+2019-06-11 10:09:09,960 - root - INFO - DB Push Sleeping...
+2019-06-11 10:10:10,075 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-06-11 10:09:09, next run: 2019-06-11 10:10:09)
+2019-06-11 10:10:10,088 - root - INFO - Job Started...
+2019-06-11 10:10:10,101 - root - INFO - Reading Settings
+2019-06-11 10:10:10,158 - root - INFO - 10:10
+2019-06-11 10:10:10,177 - root - INFO - No Report Sharing...
+2019-06-11 10:10:10,196 - root - INFO - DB Push Sleeping...
+2019-06-11 10:12:15,996 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-06-11 10:12:15)
+2019-06-11 10:12:16,016 - root - INFO - Job Started...
+2019-06-11 10:12:16,035 - root - INFO - Reading Settings
+2019-06-11 10:12:16,098 - root - INFO - 10:12
+2019-06-11 10:12:16,118 - root - INFO - Setting Flag...True
+2019-06-11 10:12:16,155 - root - INFO - Dashboards Report Download.........................Started
+2019-06-11 10:12:16,171 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:16,184 - root - INFO - Reading Params....Mixing
+2019-06-11 10:12:16,197 - root - INFO - File Ready to Use...Mixing
+2019-06-11 10:12:16,209 - root - INFO - -------------------------
+2019-06-11 10:12:16,221 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:16,234 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:16,270 - root - INFO - Data Push Started...Mixing
+2019-06-11 10:12:16,282 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:16,299 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:16,316 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:16,598 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:16,624 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:16,640 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:16,668 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:16,913 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:16,927 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:16,940 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:16,959 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:17,094 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:17,105 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:17,118 - root - INFO - DB Push Completed...Mixing
+2019-06-11 10:12:21,005 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:21,323 - root - INFO - Data Push Started...Mixing
+2019-06-11 10:12:21,348 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:21,451 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:21,494 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:22,023 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:22,046 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:22,066 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:22,092 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:22,398 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:22,418 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:22,438 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:22,463 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:22,664 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:22,687 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:22,709 - root - INFO - DB Push Completed...Mixing
+2019-06-11 10:12:24,802 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:24,855 - root - INFO - Data Push Started...Mixing
+2019-06-11 10:12:24,875 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:24,898 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:24,914 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:25,193 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:25,201 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:25,211 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:25,223 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:25,450 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:25,457 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:25,467 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:25,479 - root - INFO - Mixing dateparam: 2019-06-10
+2019-06-11 10:12:25,632 - root - INFO - Mixing self._date: 2019-06-10
+2019-06-11 10:12:25,641 - root - INFO - Mixing 0 records found
+2019-06-11 10:12:25,653 - root - INFO - DB Push Completed...Mixing
+2019-06-11 10:12:27,788 - root - INFO - ['C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Milk Bikis_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Nutri Choice_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Report_Nice_2019-06-10.pdf']
+2019-06-11 10:12:27,799 - root - INFO - 
+2019-06-11 10:12:27,809 - root - INFO - 
+2019-06-11 10:12:27,819 - root - INFO - 
+2019-06-11 10:12:27,828 - root - INFO - 
+2019-06-11 10:12:27,839 - root - INFO - 
+2019-06-11 10:12:27,851 - root - INFO - 
+2019-06-11 10:12:27,862 - root - INFO - 
+2019-06-11 10:12:27,872 - root - INFO - 
+2019-06-11 10:12:27,954 - root - INFO - Sending Email Reports..............................
+2019-06-11 10:12:27,966 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-06-11 10:12:27,976 - root - INFO - mailSentFlag--- False
+2019-06-11 10:12:36,966 - root - INFO - mailSentFlag --- True
+2019-06-11 10:12:36,979 - root - INFO - Email Sent...
+2019-06-11 10:12:36,994 - root - INFO - Dashboard Report Download.........................Started
+2019-06-11 10:12:37,013 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:37,035 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:12:37,703 - root - INFO - pie_maida.html ---to--- pie_maida.png
+2019-06-11 10:12:39,966 - root - INFO - line_maida.html ---to--- line_maida.png
+2019-06-11 10:12:41,243 - root - INFO - pie_salt_sol.html ---to--- pie_salt_sol.png
+2019-06-11 10:12:42,573 - root - INFO - line_salt_sol.html ---to--- line_salt_sol.png
+2019-06-11 10:12:44,167 - root - INFO - pie_sbc.html ---to--- pie_sbc.png
+2019-06-11 10:12:45,515 - root - INFO - line_sbc.html ---to--- line_sbc.png
+2019-06-11 10:12:46,789 - root - INFO - pie_vitamin.html ---to--- pie_vitamin.png
+2019-06-11 10:12:48,051 - root - INFO - line_vitamin.html ---to--- line_vitamin.png
+2019-06-11 10:12:49,450 - root - INFO - pie_calcium.html ---to--- pie_calcium.png
+2019-06-11 10:12:50,729 - root - INFO - line_calcium.html ---to--- line_calcium.png
+2019-06-11 10:12:52,007 - root - INFO - pie_abc.html ---to--- pie_abc.png
+2019-06-11 10:12:53,348 - root - INFO - line_abc.html ---to--- line_abc.png
+2019-06-11 10:12:54,693 - root - INFO - pie_salt_pow.html ---to--- pie_salt_pow.png
+2019-06-11 10:12:56,160 - root - INFO - line_salt_pow.html ---to--- line_salt_pow.png
+2019-06-11 10:12:57,438 - root - INFO - pie_lecithin.html ---to--- pie_lecithin.png
+2019-06-11 10:12:58,703 - root - INFO - line_lecithin.html ---to--- line_lecithin.png
+2019-06-11 10:13:00,378 - root - INFO - pie_gms.html ---to--- pie_gms.png
+2019-06-11 10:13:02,469 - root - INFO - line_gms.html ---to--- line_gms.png
+2019-06-11 10:13:04,641 - root - INFO - pie_smp.html ---to--- pie_smp.png
+2019-06-11 10:13:06,648 - root - INFO - line_smp.html ---to--- line_smp.png
+2019-06-11 10:13:08,961 - root - INFO - pie_milk.html ---to--- pie_milk.png
+2019-06-11 10:13:11,417 - root - INFO - line_milk.html ---to--- line_milk.png
+2019-06-11 10:13:13,696 - root - INFO - pie_syrup.html ---to--- pie_syrup.png
+2019-06-11 10:13:15,713 - root - INFO - line_syrup.html ---to--- line_syrup.png
+2019-06-11 10:13:18,032 - root - INFO - pie_vannila.html ---to--- pie_vannila.png
+2019-06-11 10:13:19,948 - root - INFO - line_vannila.html ---to--- line_vannila.png
+2019-06-11 10:13:21,786 - root - INFO - pie_ffm.html ---to--- pie_ffm.png
+2019-06-11 10:13:23,446 - root - INFO - line_ffm.html ---to--- line_ffm.png
+2019-06-11 10:13:25,367 - root - INFO - pie_water.html ---to--- pie_water.png
+2019-06-11 10:13:27,066 - root - INFO - line_water.html ---to--- line_water.png
+2019-06-11 10:13:28,694 - root - INFO - pie_biscuit_dust.html ---to--- pie_biscuit_dust.png
+2019-06-11 10:13:30,105 - root - INFO - line_biscuit_dust.html ---to--- line_biscuit_dust.png
+2019-06-11 10:13:31,381 - root - INFO - pie_sugar.html ---to--- pie_sugar.png
+2019-06-11 10:13:32,665 - root - INFO - line_sugar.html ---to--- line_sugar.png
+2019-06-11 10:13:33,835 - root - INFO - pie_palm_oil.html ---to--- pie_palm_oil.png
+2019-06-11 10:13:35,164 - root - INFO - line_palm_oil.html ---to--- line_palm_oil.png
+2019-06-11 10:13:37,483 - root - INFO - pie_bil.html ---to--- pie_bil.png
+2019-06-11 10:13:39,473 - root - INFO - line_bil.html ---to--- line_bil.png
+2019-06-11 10:13:46,743 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:13:47,204 - root - INFO - pie_maida.html ---to--- pie_maida.png
+2019-06-11 10:13:48,414 - root - INFO - line_maida.html ---to--- line_maida.png
+2019-06-11 10:13:49,548 - root - INFO - pie_sugar.html ---to--- pie_sugar.png
+2019-06-11 10:13:50,928 - root - INFO - line_sugar.html ---to--- line_sugar.png
+2019-06-11 10:13:52,095 - root - INFO - pie_palm_oil.html ---to--- pie_palm_oil.png
+2019-06-11 10:13:53,187 - root - INFO - line_palm_oil.html ---to--- line_palm_oil.png
+2019-06-11 10:13:54,361 - root - INFO - pie_smp.html ---to--- pie_smp.png
+2019-06-11 10:13:55,459 - root - INFO - line_smp.html ---to--- line_smp.png
+2019-06-11 10:13:56,565 - root - INFO - pie_lecithin.html ---to--- pie_lecithin.png
+2019-06-11 10:13:57,605 - root - INFO - line_lecithin.html ---to--- line_lecithin.png
+2019-06-11 10:13:58,724 - root - INFO - pie_datum.html ---to--- pie_datum.png
+2019-06-11 10:14:00,186 - root - INFO - line_datum.html ---to--- line_datum.png
+2019-06-11 10:14:01,407 - root - INFO - pie_salt_sol.html ---to--- pie_salt_sol.png
+2019-06-11 10:14:02,611 - root - INFO - line_salt_sol.html ---to--- line_salt_sol.png
+2019-06-11 10:14:03,803 - root - INFO - pie_malt.html ---to--- pie_malt.png
+2019-06-11 10:14:04,984 - root - INFO - line_malt.html ---to--- line_malt.png
+2019-06-11 10:14:06,157 - root - INFO - pie_glocuse.html ---to--- pie_glocuse.png
+2019-06-11 10:14:07,262 - root - INFO - line_glocuse.html ---to--- line_glocuse.png
+2019-06-11 10:14:08,240 - root - INFO - pie_gms.html ---to--- pie_gms.png
+2019-06-11 10:14:09,259 - root - INFO - line_gms.html ---to--- line_gms.png
+2019-06-11 10:14:10,230 - root - INFO - pie_water.html ---to--- pie_water.png
+2019-06-11 10:14:11,198 - root - INFO - line_water.html ---to--- line_water.png
+2019-06-11 10:14:12,298 - root - INFO - pie_salt_pow.html ---to--- pie_salt_pow.png
+2019-06-11 10:14:13,286 - root - INFO - line_salt_pow.html ---to--- line_salt_pow.png
+2019-06-11 10:14:14,298 - root - INFO - pie_abc.html ---to--- pie_abc.png
+2019-06-11 10:14:15,305 - root - INFO - line_abc.html ---to--- line_abc.png
+2019-06-11 10:14:16,299 - root - INFO - pie_montreal_sugar.html ---to--- pie_montreal_sugar.png
+2019-06-11 10:14:17,418 - root - INFO - line_montreal_sugar.html ---to--- line_montreal_sugar.png
+2019-06-11 10:14:18,460 - root - INFO - pie_sbc.html ---to--- pie_sbc.png
+2019-06-11 10:14:19,408 - root - INFO - line_sbc.html ---to--- line_sbc.png
+2019-06-11 10:14:20,426 - root - INFO - pie_malton_dextrin.html ---to--- pie_malton_dextrin.png
+2019-06-11 10:14:21,720 - root - INFO - line_malton_dextrin.html ---to--- line_malton_dextrin.png
+2019-06-11 10:14:22,775 - root - INFO - pie_bgc_19.html ---to--- pie_bgc_19.png
+2019-06-11 10:14:23,746 - root - INFO - line_bgc_19.html ---to--- line_bgc_19.png
+2019-06-11 10:14:24,740 - root - INFO - pie_bm_29.html ---to--- pie_bm_29.png
+2019-06-11 10:14:25,697 - root - INFO - line_bm_29.html ---to--- line_bm_29.png
+2019-06-11 10:14:26,842 - root - INFO - pie_biscuit_dust.html ---to--- pie_biscuit_dust.png
+2019-06-11 10:14:27,806 - root - INFO - line_biscuit_dust.html ---to--- line_biscuit_dust.png
+2019-06-11 10:14:31,953 - root - INFO - Reading Settings...Mixing
+2019-06-11 10:14:32,250 - root - INFO - pie_maida.html ---to--- pie_maida.png
+2019-06-11 10:14:33,256 - root - INFO - line_maida.html ---to--- line_maida.png
+2019-06-11 10:14:34,365 - root - INFO - pie_sugar.html ---to--- pie_sugar.png
+2019-06-11 10:14:35,364 - root - INFO - line_sugar.html ---to--- line_sugar.png
+2019-06-11 10:14:36,441 - root - INFO - pie_palm_oil.html ---to--- pie_palm_oil.png
+2019-06-11 10:14:37,489 - root - INFO - line_palm_oil.html ---to--- line_palm_oil.png
+2019-06-11 10:14:38,492 - root - INFO - pie_syrup.html ---to--- pie_syrup.png
+2019-06-11 10:14:39,506 - root - INFO - line_syrup.html ---to--- line_syrup.png
+2019-06-11 10:14:40,575 - root - INFO - pie_lecithin.html ---to--- pie_lecithin.png
+2019-06-11 10:14:41,522 - root - INFO - line_lecithin.html ---to--- line_lecithin.png
+2019-06-11 10:14:42,503 - root - INFO - pie_datum.html ---to--- pie_datum.png
+2019-06-11 10:14:43,476 - root - INFO - line_datum.html ---to--- line_datum.png
+2019-06-11 10:14:44,489 - root - INFO - pie_salt_sol.html ---to--- pie_salt_sol.png
+2019-06-11 10:14:45,461 - root - INFO - line_salt_sol.html ---to--- line_salt_sol.png
+2019-06-11 10:14:46,421 - root - INFO - pie_glocuse.html ---to--- pie_glocuse.png
+2019-06-11 10:14:47,368 - root - INFO - line_glocuse.html ---to--- line_glocuse.png
+2019-06-11 10:14:48,319 - root - INFO - pie_gms.html ---to--- pie_gms.png
+2019-06-11 10:14:49,336 - root - INFO - line_gms.html ---to--- line_gms.png
+2019-06-11 10:14:50,381 - root - INFO - pie_water.html ---to--- pie_water.png
+2019-06-11 10:14:51,408 - root - INFO - line_water.html ---to--- line_water.png
+2019-06-11 10:14:52,378 - root - INFO - pie_starch.html ---to--- pie_starch.png
+2019-06-11 10:14:53,303 - root - INFO - line_starch.html ---to--- line_starch.png
+2019-06-11 10:14:54,299 - root - INFO - pie_cocunut_milk.html ---to--- pie_cocunut_milk.png
+2019-06-11 10:14:55,286 - root - INFO - line_cocunut_milk.html ---to--- line_cocunut_milk.png
+2019-06-11 10:14:56,381 - root - INFO - pie_lactose.html ---to--- pie_lactose.png
+2019-06-11 10:14:57,369 - root - INFO - line_lactose.html ---to--- line_lactose.png
+2019-06-11 10:14:58,335 - root - INFO - pie_salt_pow.html ---to--- pie_salt_pow.png
+2019-06-11 10:14:59,289 - root - INFO - line_salt_pow.html ---to--- line_salt_pow.png
+2019-06-11 10:15:00,240 - root - INFO - pie_abc.html ---to--- pie_abc.png
+2019-06-11 10:15:01,211 - root - INFO - line_abc.html ---to--- line_abc.png
+2019-06-11 10:15:02,236 - root - INFO - pie_montreal_sugar.html ---to--- pie_montreal_sugar.png
+2019-06-11 10:15:03,197 - root - INFO - line_montreal_sugar.html ---to--- line_montreal_sugar.png
+2019-06-11 10:15:04,193 - root - INFO - pie_sbc.html ---to--- pie_sbc.png
+2019-06-11 10:15:05,213 - root - INFO - line_sbc.html ---to--- line_sbc.png
+2019-06-11 10:15:06,196 - root - INFO - pie_whey_powder.html ---to--- pie_whey_powder.png
+2019-06-11 10:15:07,223 - root - INFO - line_whey_powder.html ---to--- line_whey_powder.png
+2019-06-11 10:15:08,178 - root - INFO - pie_sapp.html ---to--- pie_sapp.png
+2019-06-11 10:15:09,236 - root - INFO - line_sapp.html ---to--- line_sapp.png
+2019-06-11 10:15:10,253 - root - INFO - pie_toasted_cocunut.html ---to--- pie_toasted_cocunut.png
+2019-06-11 10:15:11,240 - root - INFO - line_toasted_cocunut.html ---to--- line_toasted_cocunut.png
+2019-06-11 10:15:12,319 - root - INFO - pie_biscuit_dust.html ---to--- pie_biscuit_dust.png
+2019-06-11 10:15:13,286 - root - INFO - line_biscuit_dust.html ---to--- line_biscuit_dust.png
+2019-06-11 10:15:17,624 - root - INFO - ['C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Dashboard_Milk Bikis_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Dashboard_Nutri Choice_2019-06-10.pdf', 'C:\\Program Files\\ItantaAnalytics\\ABB\\dbpush\\data\\Mixing_Dashboard_Nice_2019-06-10.pdf']
+2019-06-11 10:15:17,631 - root - INFO - 
+2019-06-11 10:15:17,638 - root - INFO - 
+2019-06-11 10:15:17,644 - root - INFO - 
+2019-06-11 10:15:17,759 - root - INFO - Sending Email Dashboards..............................
+2019-06-11 10:15:17,769 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-06-11 10:15:17,780 - root - INFO - mailSentFlag--- False
+2019-06-11 10:15:25,424 - root - INFO - mailSentFlag --- True
+2019-06-11 10:15:25,431 - root - INFO - Email Sent...
+2019-06-11 10:15:25,443 - root - INFO - Setting Flag...False
+2019-06-11 10:15:25,473 - root - INFO - DB Push Sleeping...
+2019-06-11 10:16:25,528 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-06-11 10:15:25, next run: 2019-06-11 10:16:25)
+2019-06-11 10:16:25,538 - root - INFO - Job Started...
+2019-06-11 10:16:25,546 - root - INFO - Reading Settings
+2019-06-11 10:16:25,596 - root - INFO - 10:16
+2019-06-11 10:16:25,611 - root - INFO - No Report Sharing...
+2019-06-11 10:16:25,618 - root - INFO - DB Push Sleeping...
+2019-06-11 10:17:25,667 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-06-11 10:16:25, next run: 2019-06-11 10:17:25)
+2019-06-11 10:17:25,674 - root - INFO - Job Started...
+2019-06-11 10:17:25,680 - root - INFO - Reading Settings
+2019-06-11 10:17:25,734 - root - INFO - 10:17
+2019-06-11 10:17:25,747 - root - INFO - No Report Sharing...
+2019-06-11 10:17:25,756 - root - INFO - DB Push Sleeping...
+2019-06-11 10:18:26,082 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-06-11 10:17:25, next run: 2019-06-11 10:18:25)
+2019-06-11 10:18:26,114 - root - INFO - Job Started...
+2019-06-11 10:18:26,128 - root - INFO - Reading Settings
+2019-06-11 10:18:26,226 - root - INFO - 10:18
+2019-06-11 10:18:26,237 - root - INFO - No Report Sharing...
+2019-06-11 10:18:26,246 - root - INFO - DB Push Sleeping...
+2019-07-24 14:23:40,625 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-07-24 14:23:40)
+2019-07-24 14:23:40,629 - root - INFO - Job Started...
+2019-07-24 14:23:40,629 - root - INFO - Reading Settings
+2019-07-24 14:23:40,674 - root - INFO - Reading Settings Done
+2019-07-24 14:23:40,675 - root - INFO - 14:23
+2019-07-24 14:23:40,676 - root - INFO - No Report Sharing...
+2019-07-24 14:23:40,676 - root - INFO - DB Push Sleeping...
+2019-07-24 14:24:40,821 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:23:40, next run: 2019-07-24 14:24:40)
+2019-07-24 14:24:40,823 - root - INFO - Job Started...
+2019-07-24 14:24:40,823 - root - INFO - Reading Settings
+2019-07-24 14:24:40,843 - root - INFO - Reading Settings Done
+2019-07-24 14:24:40,844 - root - INFO - 14:24
+2019-07-24 14:24:40,844 - root - INFO - Setting Flag...True
+2019-07-24 14:24:40,859 - root - INFO - Setting Flag Done...True
+2019-07-24 14:24:40,860 - root - INFO - Dashboards Report Download.........................Started
+2019-07-24 14:24:40,860 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:24:40,862 - root - INFO - Reading Params....Mixing
+2019-07-24 14:24:40,862 - root - INFO - File Ready to Use...Mixing
+2019-07-24 14:24:40,863 - root - INFO - -------------------------
+2019-07-24 14:24:40,863 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:24:40,864 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:24:40,893 - root - INFO - Data Push Started...Mixing
+2019-07-24 14:24:40,893 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:24:40,895 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:24:40,897 - root - INFO - Mixing dateparam: 2019-07-23
+2019-07-24 14:24:41,299 - root - INFO - Mixing self._date: 2019-07-23
+2019-07-24 14:24:41,300 - root - INFO - Mixing 0 records found
+2019-07-24 14:24:41,300 - root - INFO - DB Push Completed...Mixing
+2019-07-24 14:24:43,025 - root - INFO - ['/DeepaliData/Workspace/ABB/ABBLineB/classes/dbpush\\data\\Mixing_Report_2019-07-23.pdf']
+2019-07-24 14:24:43,025 - root - INFO - 
+2019-07-24 14:24:43,026 - root - INFO - 
+2019-07-24 14:24:43,026 - root - INFO - 
+2019-07-24 14:24:43,026 - root - INFO - 
+2019-07-24 14:24:43,027 - root - INFO - 
+2019-07-24 14:24:43,027 - root - INFO - 
+2019-07-24 14:24:43,027 - root - INFO - 
+2019-07-24 14:24:43,028 - root - INFO - 
+2019-07-24 14:24:43,044 - root - INFO - Sending Email Reports..............................
+2019-07-24 14:24:43,044 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-07-24 14:24:43,044 - root - INFO - mailSentFlag--- False
+2019-07-24 14:24:54,447 - root - INFO - mailSentFlag --- True
+2019-07-24 14:24:54,448 - root - INFO - Email Sent...
+2019-07-24 14:24:54,449 - root - INFO - Dashboard Report Download.........................Started
+2019-07-24 14:24:54,449 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:24:54,451 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:24:54,511 - root - INFO - pie_flour.html ---to--- pie_flour.png
+2019-07-24 14:24:54,596 - root - ERROR - Fatal error in main exception
+Traceback (most recent call last):
+  File "mail_schedular.py", line 337, in job
+    mixing_report = dbManager.read_and_download_home(format_dt) if allTiles["Mixing"] == True else ""
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 307, in read_and_download_home
+    filename = self.get_home(_date, rec_key)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 925, in get_home
+    self.htmltoImage(ht["id"], ht["type"])
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 1112, in htmltoImage
+    imgkit.from_file(FILE_PATH + htmlname, FILE_PATH + pngname, options=options)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/api.py", line 68, in from_file
+    return rtn.to_img(output_path)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/imgkit.py", line 250, in to_img
+    raise IOError("wkhtmltoimage exited with non-zero code {0}. error:\n{1}\n\n{2}".format(exit_code, stderr, xvfb_error))
+IOError: wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+
+2019-07-24 14:24:54,600 - root - ERROR - wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+Traceback (most recent call last):
+  File "mail_schedular.py", line 337, in job
+    mixing_report = dbManager.read_and_download_home(format_dt) if allTiles["Mixing"] == True else ""
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 307, in read_and_download_home
+    filename = self.get_home(_date, rec_key)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 925, in get_home
+    self.htmltoImage(ht["id"], ht["type"])
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 1112, in htmltoImage
+    imgkit.from_file(FILE_PATH + htmlname, FILE_PATH + pngname, options=options)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/api.py", line 68, in from_file
+    return rtn.to_img(output_path)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/imgkit.py", line 250, in to_img
+    raise IOError("wkhtmltoimage exited with non-zero code {0}. error:\n{1}\n\n{2}".format(exit_code, stderr, xvfb_error))
+IOError: wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+
+2019-07-24 14:25:54,794 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:24:54, next run: 2019-07-24 14:25:54)
+2019-07-24 14:25:54,795 - root - INFO - Job Started...
+2019-07-24 14:25:54,796 - root - INFO - Reading Settings
+2019-07-24 14:25:54,817 - root - INFO - Reading Settings Done
+2019-07-24 14:25:54,818 - root - INFO - 14:25
+2019-07-24 14:25:54,818 - root - INFO - No Report Sharing...
+2019-07-24 14:25:54,818 - root - INFO - DB Push Sleeping...
+2019-07-24 14:28:21,815 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-07-24 14:28:21)
+2019-07-24 14:28:21,816 - root - INFO - Job Started...
+2019-07-24 14:28:21,817 - root - INFO - Reading Settings
+2019-07-24 14:28:21,839 - root - INFO - Reading Settings Done
+2019-07-24 14:28:21,840 - root - INFO - 14:28
+2019-07-24 14:28:21,841 - root - INFO - No Report Sharing...
+2019-07-24 14:28:21,841 - root - INFO - DB Push Sleeping...
+2019-07-24 14:29:22,016 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:28:21, next run: 2019-07-24 14:29:21)
+2019-07-24 14:29:22,017 - root - INFO - Job Started...
+2019-07-24 14:29:22,018 - root - INFO - Reading Settings
+2019-07-24 14:29:22,043 - root - INFO - Reading Settings Done
+2019-07-24 14:29:22,043 - root - INFO - 14:29
+2019-07-24 14:29:22,044 - root - INFO - No Report Sharing...
+2019-07-24 14:29:22,044 - root - INFO - DB Push Sleeping...
+2019-07-24 14:31:10,592 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-07-24 14:31:10)
+2019-07-24 14:31:10,594 - root - INFO - Job Started...
+2019-07-24 14:31:10,594 - root - INFO - Reading Settings
+2019-07-24 14:31:10,619 - root - INFO - Reading Settings Done
+2019-07-24 14:31:10,620 - root - INFO - 14:31
+2019-07-24 14:31:10,620 - root - INFO - No Report Sharing...
+2019-07-24 14:31:10,620 - root - INFO - DB Push Sleeping...
+2019-07-24 14:32:10,803 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:31:10, next run: 2019-07-24 14:32:10)
+2019-07-24 14:32:10,805 - root - INFO - Job Started...
+2019-07-24 14:32:10,806 - root - INFO - Reading Settings
+2019-07-24 14:32:10,830 - root - INFO - Reading Settings Done
+2019-07-24 14:32:10,830 - root - INFO - 14:32
+2019-07-24 14:32:10,831 - root - INFO - No Report Sharing...
+2019-07-24 14:32:10,831 - root - INFO - DB Push Sleeping...
+2019-07-24 14:34:31,221 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-07-24 14:34:31)
+2019-07-24 14:34:31,224 - root - INFO - Job Started...
+2019-07-24 14:34:31,224 - root - INFO - Reading Settings
+2019-07-24 14:34:31,245 - root - INFO - Reading Settings Done
+2019-07-24 14:34:31,246 - root - INFO - 14:34
+2019-07-24 14:34:31,246 - root - INFO - No Report Sharing...
+2019-07-24 14:34:31,247 - root - INFO - DB Push Sleeping...
+2019-07-24 14:35:31,420 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:34:31, next run: 2019-07-24 14:35:31)
+2019-07-24 14:35:31,423 - root - INFO - Job Started...
+2019-07-24 14:35:31,424 - root - INFO - Reading Settings
+2019-07-24 14:35:31,451 - root - INFO - Reading Settings Done
+2019-07-24 14:35:31,451 - root - INFO - 14:35
+2019-07-24 14:35:31,451 - root - INFO - No Report Sharing...
+2019-07-24 14:35:31,452 - root - INFO - DB Push Sleeping...
+2019-07-24 14:36:31,624 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:35:31, next run: 2019-07-24 14:36:31)
+2019-07-24 14:36:31,625 - root - INFO - Job Started...
+2019-07-24 14:36:31,626 - root - INFO - Reading Settings
+2019-07-24 14:36:31,643 - root - INFO - Reading Settings Done
+2019-07-24 14:36:31,644 - root - INFO - 14:36
+2019-07-24 14:36:31,644 - root - INFO - No Report Sharing...
+2019-07-24 14:36:31,645 - root - INFO - DB Push Sleeping...
+2019-07-24 14:37:31,818 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:36:31, next run: 2019-07-24 14:37:31)
+2019-07-24 14:37:31,818 - root - INFO - Job Started...
+2019-07-24 14:37:31,819 - root - INFO - Reading Settings
+2019-07-24 14:37:31,836 - root - INFO - Reading Settings Done
+2019-07-24 14:37:31,837 - root - INFO - 14:37
+2019-07-24 14:37:31,837 - root - INFO - Setting Flag...True
+2019-07-24 14:37:31,853 - root - INFO - Setting Flag Done...True
+2019-07-24 14:37:31,854 - root - INFO - Dashboards Report Download.........................Started
+2019-07-24 14:37:31,854 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:37:31,856 - root - INFO - Reading Params....Mixing
+2019-07-24 14:37:31,856 - root - INFO - File Ready to Use...Mixing
+2019-07-24 14:37:31,856 - root - INFO - -------------------------
+2019-07-24 14:37:31,856 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:37:31,858 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:37:31,874 - root - INFO - Data Push Started...Mixing
+2019-07-24 14:37:31,874 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:37:31,876 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:37:31,877 - root - INFO - Mixing dateparam: 2019-07-23
+2019-07-24 14:37:32,076 - root - INFO - Mixing self._date: 2019-07-23
+2019-07-24 14:37:32,076 - root - INFO - Mixing 0 records found
+2019-07-24 14:37:32,076 - root - INFO - DB Push Completed...Mixing
+2019-07-24 14:37:33,505 - root - INFO - ['/DeepaliData/Workspace/ABB/ABBLineB/classes/dbpush\\data\\Mixing_Report_2019-07-23.pdf']
+2019-07-24 14:37:33,506 - root - INFO - 
+2019-07-24 14:37:33,506 - root - INFO - 
+2019-07-24 14:37:33,506 - root - INFO - 
+2019-07-24 14:37:33,506 - root - INFO - 
+2019-07-24 14:37:33,507 - root - INFO - 
+2019-07-24 14:37:33,507 - root - INFO - 
+2019-07-24 14:37:33,507 - root - INFO - 
+2019-07-24 14:37:33,507 - root - INFO - 
+2019-07-24 14:37:33,511 - root - INFO - Sending Email Reports..............................
+2019-07-24 14:37:33,511 - root - INFO - ['deepali.bmahajan@gmail.com', 'pramodkonde@hotmail.com']
+2019-07-24 14:37:33,511 - root - INFO - mailSentFlag--- False
+2019-07-24 14:37:44,397 - root - INFO - mailSentFlag --- True
+2019-07-24 14:37:44,398 - root - INFO - Email Sent...
+2019-07-24 14:37:44,399 - root - INFO - Dashboard Report Download.........................Started
+2019-07-24 14:37:44,400 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:37:44,401 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:37:44,453 - root - INFO - pie_flour.html ---to--- pie_flour.png
+2019-07-24 14:37:44,530 - root - ERROR - Fatal error in main exception
+Traceback (most recent call last):
+  File "mail_schedular.py", line 338, in job
+    mixing_report = dbManager.read_and_download_home(format_dt) if allTiles["Mixing"] == True else ""
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 307, in read_and_download_home
+    filename = self.get_home(_date, rec_key)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 925, in get_home
+    self.htmltoImage(ht["id"], ht["type"])
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 1112, in htmltoImage
+    imgkit.from_file(FILE_PATH + htmlname, FILE_PATH + pngname, options=options)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/api.py", line 68, in from_file
+    return rtn.to_img(output_path)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/imgkit.py", line 250, in to_img
+    raise IOError("wkhtmltoimage exited with non-zero code {0}. error:\n{1}\n\n{2}".format(exit_code, stderr, xvfb_error))
+IOError: wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+
+2019-07-24 14:37:44,534 - root - ERROR - wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+Traceback (most recent call last):
+  File "mail_schedular.py", line 338, in job
+    mixing_report = dbManager.read_and_download_home(format_dt) if allTiles["Mixing"] == True else ""
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 307, in read_and_download_home
+    filename = self.get_home(_date, rec_key)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 925, in get_home
+    self.htmltoImage(ht["id"], ht["type"])
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 1112, in htmltoImage
+    imgkit.from_file(FILE_PATH + htmlname, FILE_PATH + pngname, options=options)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/api.py", line 68, in from_file
+    return rtn.to_img(output_path)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/imgkit.py", line 250, in to_img
+    raise IOError("wkhtmltoimage exited with non-zero code {0}. error:\n{1}\n\n{2}".format(exit_code, stderr, xvfb_error))
+IOError: wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+
+2019-07-24 14:38:44,691 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:37:44, next run: 2019-07-24 14:38:44)
+2019-07-24 14:38:44,694 - root - INFO - Job Started...
+2019-07-24 14:38:44,695 - root - INFO - Reading Settings
+2019-07-24 14:38:44,713 - root - INFO - Reading Settings Done
+2019-07-24 14:38:44,714 - root - INFO - 14:38
+2019-07-24 14:38:44,714 - root - INFO - No Report Sharing...
+2019-07-24 14:38:44,714 - root - INFO - DB Push Sleeping...
+2019-07-24 14:39:44,895 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:38:44, next run: 2019-07-24 14:39:44)
+2019-07-24 14:39:44,897 - root - INFO - Job Started...
+2019-07-24 14:39:44,897 - root - INFO - Reading Settings
+2019-07-24 14:39:44,915 - root - INFO - Reading Settings Done
+2019-07-24 14:39:44,915 - root - INFO - 14:39
+2019-07-24 14:39:44,915 - root - INFO - No Report Sharing...
+2019-07-24 14:39:44,916 - root - INFO - DB Push Sleeping...
+2019-07-24 14:40:45,083 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:39:44, next run: 2019-07-24 14:40:44)
+2019-07-24 14:40:45,083 - root - INFO - Job Started...
+2019-07-24 14:40:45,084 - root - INFO - Reading Settings
+2019-07-24 14:40:45,110 - root - INFO - Reading Settings Done
+2019-07-24 14:40:45,111 - root - INFO - 14:40
+2019-07-24 14:40:45,111 - root - INFO - No Report Sharing...
+2019-07-24 14:40:45,111 - root - INFO - DB Push Sleeping...
+2019-07-24 14:41:45,277 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:40:45, next run: 2019-07-24 14:41:45)
+2019-07-24 14:41:45,278 - root - INFO - Job Started...
+2019-07-24 14:41:45,279 - root - INFO - Reading Settings
+2019-07-24 14:41:45,302 - root - INFO - Reading Settings Done
+2019-07-24 14:41:45,303 - root - INFO - 14:41
+2019-07-24 14:41:45,303 - root - INFO - No Report Sharing...
+2019-07-24 14:41:45,303 - root - INFO - DB Push Sleeping...
+2019-07-24 14:43:23,657 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-07-24 14:43:23)
+2019-07-24 14:43:23,659 - root - INFO - Job Started...
+2019-07-24 14:43:23,665 - root - INFO - Reading Settings
+2019-07-24 14:43:23,686 - root - INFO - Reading Settings Done
+2019-07-24 14:43:23,687 - root - INFO - 14:43
+2019-07-24 14:43:23,687 - root - INFO - No Report Sharing...
+2019-07-24 14:43:23,688 - root - INFO - DB Push Sleeping...
+2019-07-24 14:44:23,841 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:43:23, next run: 2019-07-24 14:44:23)
+2019-07-24 14:44:23,842 - root - INFO - Job Started...
+2019-07-24 14:44:23,842 - root - INFO - Reading Settings
+2019-07-24 14:44:23,859 - root - INFO - Reading Settings Done
+2019-07-24 14:44:23,859 - root - INFO - 14:44
+2019-07-24 14:44:23,859 - root - INFO - Setting Flag...True
+2019-07-24 14:44:23,876 - root - INFO - Setting Flag Done...True
+2019-07-24 14:44:23,876 - root - INFO - Dashboards Report Download.........................Started
+2019-07-24 14:44:23,876 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:44:23,878 - root - INFO - Reading Params....Mixing
+2019-07-24 14:44:23,879 - root - INFO - File Ready to Use...Mixing
+2019-07-24 14:44:23,879 - root - INFO - -------------------------
+2019-07-24 14:44:23,879 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:44:23,881 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:44:23,896 - root - INFO - Data Push Started...Mixing
+2019-07-24 14:44:23,896 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:44:23,898 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:44:23,900 - root - INFO - Mixing dateparam: 2019-07-23
+2019-07-24 14:44:24,100 - root - INFO - Mixing self._date: 2019-07-23
+2019-07-24 14:44:24,101 - root - INFO - Mixing 0 records found
+2019-07-24 14:44:24,101 - root - INFO - DB Push Completed...Mixing
+2019-07-24 14:44:25,549 - root - INFO - ['/DeepaliData/Workspace/ABB/ABBLineB/classes/dbpush\\data\\Mixing_Report_2019-07-23.pdf']
+2019-07-24 14:44:25,550 - root - INFO - 
+2019-07-24 14:44:25,550 - root - INFO - 
+2019-07-24 14:44:25,550 - root - INFO - 
+2019-07-24 14:44:25,550 - root - INFO - 
+2019-07-24 14:44:25,551 - root - INFO - 
+2019-07-24 14:44:25,551 - root - INFO - 
+2019-07-24 14:44:25,551 - root - INFO - 
+2019-07-24 14:44:25,551 - root - INFO - 
+2019-07-24 14:44:25,554 - root - INFO - Sending Email Reports..............................
+2019-07-24 14:44:25,555 - root - INFO - ['deepali.bmahajan@gmail.com', 'pramodkonde@hotmail.com']
+2019-07-24 14:44:25,555 - root - INFO - mailSentFlag--- False
+2019-07-24 14:44:35,743 - root - INFO - mailSentFlag --- True
+2019-07-24 14:44:35,744 - root - INFO - Email Sent...
+2019-07-24 14:44:35,745 - root - INFO - Dashboard Report Download.........................Started
+2019-07-24 14:44:35,745 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:44:35,747 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:44:35,796 - root - INFO - pie_flour.html ---to--- pie_flour.png
+2019-07-24 14:44:35,865 - root - ERROR - Fatal error in main exception
+Traceback (most recent call last):
+  File "mail_schedular.py", line 338, in job
+    mixing_report = dbManager.read_and_download_home(format_dt) if allTiles["Mixing"] == True else ""
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 307, in read_and_download_home
+    filename = self.get_home(_date, rec_key)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 925, in get_home
+    self.htmltoImage(ht["id"], ht["type"])
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 1112, in htmltoImage
+    imgkit.from_file(FILE_PATH + htmlname, FILE_PATH + pngname, options=options)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/api.py", line 68, in from_file
+    return rtn.to_img(output_path)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/imgkit.py", line 250, in to_img
+    raise IOError("wkhtmltoimage exited with non-zero code {0}. error:\n{1}\n\n{2}".format(exit_code, stderr, xvfb_error))
+IOError: wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+
+2019-07-24 14:44:35,868 - root - ERROR - wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+Traceback (most recent call last):
+  File "mail_schedular.py", line 338, in job
+    mixing_report = dbManager.read_and_download_home(format_dt) if allTiles["Mixing"] == True else ""
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 307, in read_and_download_home
+    filename = self.get_home(_date, rec_key)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 925, in get_home
+    self.htmltoImage(ht["id"], ht["type"])
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/stage_data.py", line 1112, in htmltoImage
+    imgkit.from_file(FILE_PATH + htmlname, FILE_PATH + pngname, options=options)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/api.py", line 68, in from_file
+    return rtn.to_img(output_path)
+  File "/DeepaliData/Workspace/ABB/ABBLineB/classes/imgkit/imgkit.py", line 250, in to_img
+    raise IOError("wkhtmltoimage exited with non-zero code {0}. error:\n{1}\n\n{2}".format(exit_code, stderr, xvfb_error))
+IOError: wkhtmltoimage exited with non-zero code 1. error:
+You need to specify at least one input file, and exactly one output file
+Use - for stdin or stdout
+
+Name:
+  wkhtmltoimage 0.12.5 (with patched qt)
+
+Synopsis:
+  wkhtmltoimage [OPTIONS]... <input file> <output file>
+  
+Description:
+  Converts an HTML page into an image, 
+
+General Options:
+      --crop-h <int>                  Set height for cropping
+      --crop-w <int>                  Set width for cropping
+      --crop-x <int>                  Set x coordinate for cropping
+      --crop-y <int>                  Set y coordinate for cropping
+  -H, --extended-help                 Display more extensive help, detailing                                      less common command switches
+  -f, --format <format>               Output file format
+      --height <int>                  Set screen height (default is calculated                                      from page content) (default 0)
+  -h, --help                          Display help
+      --license                       Output license information and exit
+      --log-level <level>             Set log level to: none, error, warn or                                      info (default info)
+      --quality <int>                 Output image quality (between 0 and 100)                                      (default 94)
+  -q, --quiet                         Be less verbose, maintained for backwards                                      compatibility; Same as using --log-level                                      none
+  -V, --version                       Output version information and exit
+      --width <int>                   Set screen width, note that this is used                                      only as a guide line. Use                                      --disable-smart-width to make it strict.                                      (default 1024)
+Contact:
+  If you experience bugs or want to request new features please visit 
+  <https://github.com/wkhtmltopdf/wkhtmltopdf/issues>
+
+
+
+
+2019-07-24 14:45:36,047 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:44:35, next run: 2019-07-24 14:45:35)
+2019-07-24 14:45:36,048 - root - INFO - Job Started...
+2019-07-24 14:45:36,049 - root - INFO - Reading Settings
+2019-07-24 14:45:36,067 - root - INFO - Reading Settings Done
+2019-07-24 14:45:36,068 - root - INFO - 14:45
+2019-07-24 14:45:36,068 - root - INFO - No Report Sharing...
+2019-07-24 14:45:36,068 - root - INFO - DB Push Sleeping...
+2019-07-24 14:46:36,238 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:45:36, next run: 2019-07-24 14:46:36)
+2019-07-24 14:46:36,239 - root - INFO - Job Started...
+2019-07-24 14:46:36,239 - root - INFO - Reading Settings
+2019-07-24 14:46:36,255 - root - INFO - Reading Settings Done
+2019-07-24 14:46:36,256 - root - INFO - 14:46
+2019-07-24 14:46:36,256 - root - INFO - No Report Sharing...
+2019-07-24 14:46:36,256 - root - INFO - DB Push Sleeping...
+2019-07-24 14:52:15,471 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-07-24 14:52:15)
+2019-07-24 14:52:15,472 - root - INFO - Job Started...
+2019-07-24 14:52:15,472 - root - INFO - Reading Settings
+2019-07-24 14:52:15,494 - root - INFO - Reading Settings Done
+2019-07-24 14:52:15,496 - root - INFO - 14:52
+2019-07-24 14:52:15,496 - root - INFO - Setting Flag...True
+2019-07-24 14:52:15,515 - root - INFO - Setting Flag Done...True
+2019-07-24 14:52:15,515 - root - INFO - Dashboards Report Download.........................Started
+2019-07-24 14:52:15,515 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:52:15,517 - root - INFO - Reading Params....Mixing
+2019-07-24 14:52:15,518 - root - INFO - File Ready to Use...Mixing
+2019-07-24 14:52:15,518 - root - INFO - -------------------------
+2019-07-24 14:52:15,518 - root - INFO - Reading Settings...Moulder
+2019-07-24 14:52:15,519 - root - INFO - Reading Params....Moulder
+2019-07-24 14:52:15,519 - root - INFO - File Ready to Use...Moulder
+2019-07-24 14:52:15,520 - root - INFO - -------------------------
+2019-07-24 14:52:15,520 - root - INFO - Reading Settings
+2019-07-24 14:52:15,521 - root - INFO - Reading Params....Oven
+2019-07-24 14:52:15,521 - root - INFO - File Ready to Use...Oven
+2019-07-24 14:52:15,521 - root - INFO - -------------------------
+2019-07-24 14:52:15,522 - root - INFO - Reading Settings...Bori
+2019-07-24 14:52:15,522 - root - INFO - Reading Params....Bori
+2019-07-24 14:52:15,522 - root - INFO - File Ready to Use...Bori
+2019-07-24 14:52:15,523 - root - INFO - -------------------------
+2019-07-24 14:52:15,523 - root - INFO - Reading Settings
+2019-07-24 14:52:15,523 - root - INFO - Reading Params....
+2019-07-24 14:52:15,524 - root - INFO - 
+2019-07-24 14:52:15,524 - root - INFO - File Ready to Use...
+2019-07-24 14:52:15,524 - root - INFO - -------------------------
+2019-07-24 14:52:15,524 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:52:15,525 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:52:15,542 - root - INFO - Data Push Started...Mixing
+2019-07-24 14:52:15,542 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:52:15,544 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:52:15,546 - root - INFO - Mixing dateparam: 2019-07-23
+2019-07-24 14:52:15,739 - root - INFO - Mixing self._date: 2019-07-23
+2019-07-24 14:52:15,740 - root - INFO - Mixing 0 records found
+2019-07-24 14:52:15,740 - root - INFO - DB Push Completed...Mixing
+2019-07-24 14:52:17,106 - root - INFO - ['/DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\\data\\Mixing_Report_2019-07-23.pdf']
+2019-07-24 14:52:17,107 - root - INFO - Saving Report...Moulder
+2019-07-24 14:52:17,123 - root - INFO - Data not available in staging... Getting From Mains...Moulder
+2019-07-24 14:52:17,124 - root - INFO - Data Push Started...Moulder
+2019-07-24 14:52:17,124 - root - INFO - Moulder dateparam: 2019-07-23
+2019-07-24 14:52:17,138 - root - INFO - Moulder self._date: 2019-07-23
+2019-07-24 14:52:17,139 - root - INFO - No Data...Moulder
+2019-07-24 14:52:17,140 - root - INFO - 0
+2019-07-24 14:52:18,194 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Moulder_Report_2019-07-23.pdf
+2019-07-24 14:52:18,195 - root - INFO - Saving Report...Downtime
+2019-07-24 14:52:18,232 - root - INFO - 0
+2019-07-24 14:52:19,290 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Moulder_DownTime_Report_2019-07-23.pdf
+2019-07-24 14:52:19,291 - root - INFO - Saving Report...Oven
+2019-07-24 14:52:19,321 - root - INFO - Data not available in staging... Getting From Mains...Oven
+2019-07-24 14:52:19,322 - root - INFO - Data Push Started...Oven
+2019-07-24 14:52:19,322 - root - INFO - Oven dateparam: 2019-07-23
+2019-07-24 14:52:19,358 - root - INFO - Oven self._date: 2019-07-23
+2019-07-24 14:52:19,358 - root - INFO - No Data...Oven
+2019-07-24 14:52:19,361 - root - INFO - 0
+2019-07-24 14:52:20,418 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Oven_Report_2019-07-23.pdf
+2019-07-24 14:52:20,419 - root - INFO - Saving Report...Bori
+2019-07-24 14:52:20,466 - root - INFO - Data not available in staging... Getting From Mains...Bori
+2019-07-24 14:52:20,466 - root - INFO - Data Push Started...Bori
+2019-07-24 14:52:20,467 - root - INFO - Bori dateparam: 2019-07-23
+2019-07-24 14:52:20,483 - root - INFO - Bori self._date: 2019-07-23
+2019-07-24 14:52:20,484 - root - INFO - No Data...Bori
+2019-07-24 14:52:20,485 - root - INFO - 0
+2019-07-24 14:52:21,537 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Bori_Report_2019-07-23.pdf
+2019-07-24 14:52:21,538 - root - INFO - 
+2019-07-24 14:52:21,538 - root - INFO - 
+2019-07-24 14:52:21,539 - root - INFO - Saving Report...Packing
+2019-07-24 14:52:21,539 - root - INFO - Reading Settings
+2019-07-24 14:52:21,557 - root - INFO - Data not available in staging... Getting From Mains...
+2019-07-24 14:52:21,557 - root - INFO - Data Push Started...
+2019-07-24 14:52:21,558 - root - INFO - dateparam: 2019-07-23
+2019-07-24 14:52:21,573 - root - INFO - self._date: 2019-07-23
+2019-07-24 14:52:21,573 - root - INFO - No Data...Packing
+2019-07-24 14:52:21,574 - root - INFO - 0
+2019-07-24 14:52:21,574 - root - INFO - Reading Settings
+2019-07-24 14:52:21,590 - root - INFO - Data not available in staging... Getting From Mains...
+2019-07-24 14:52:21,591 - root - INFO - Data Push Started...
+2019-07-24 14:52:21,591 - root - INFO - dateparam: 2019-07-23
+2019-07-24 14:52:21,607 - root - INFO - self._date: 2019-07-23
+2019-07-24 14:52:21,607 - root - INFO - No Data...PackingCBB
+2019-07-24 14:52:21,608 - root - INFO - 0
+2019-07-24 14:52:23,097 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Packing_Demo_2019-07-23.pdf
+2019-07-24 14:52:23,098 - root - INFO - 
+2019-07-24 14:52:23,110 - root - INFO - Sending Email Reports..............................
+2019-07-24 14:52:23,110 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-07-24 14:52:23,111 - root - INFO - mailSentFlag--- False
+2019-07-24 14:52:34,159 - root - INFO - mailSentFlag --- True
+2019-07-24 14:52:34,160 - root - INFO - Email Sent...
+2019-07-24 14:52:34,161 - root - INFO - Setting Flag...False
+2019-07-24 14:52:34,178 - root - INFO - Setting Flag Done...False
+2019-07-24 14:52:34,179 - root - INFO - DB Push Sleeping...
+2019-07-24 14:54:28,785 - schedule - INFO - Running job Every 1 minute do job() (last run: [never], next run: 2019-07-24 14:54:28)
+2019-07-24 14:54:28,787 - root - INFO - Job Started...
+2019-07-24 14:54:28,787 - root - INFO - Reading Settings
+2019-07-24 14:54:28,804 - root - INFO - Reading Settings Done
+2019-07-24 14:54:28,806 - root - INFO - 14:54
+2019-07-24 14:54:28,806 - root - INFO - No Report Sharing...
+2019-07-24 14:54:28,806 - root - INFO - DB Push Sleeping...
+2019-07-24 14:55:28,964 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:54:28, next run: 2019-07-24 14:55:28)
+2019-07-24 14:55:28,964 - root - INFO - Job Started...
+2019-07-24 14:55:28,965 - root - INFO - Reading Settings
+2019-07-24 14:55:28,983 - root - INFO - Reading Settings Done
+2019-07-24 14:55:28,984 - root - INFO - 14:55
+2019-07-24 14:55:28,984 - root - INFO - Setting Flag...True
+2019-07-24 14:55:29,002 - root - INFO - Setting Flag Done...True
+2019-07-24 14:55:29,002 - root - INFO - Dashboards Report Download.........................Started
+2019-07-24 14:55:29,003 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:55:29,004 - root - INFO - Reading Params....Mixing
+2019-07-24 14:55:29,005 - root - INFO - File Ready to Use...Mixing
+2019-07-24 14:55:29,005 - root - INFO - -------------------------
+2019-07-24 14:55:29,005 - root - INFO - Reading Settings...Moulder
+2019-07-24 14:55:29,005 - root - INFO - Reading Params....Moulder
+2019-07-24 14:55:29,006 - root - INFO - File Ready to Use...Moulder
+2019-07-24 14:55:29,006 - root - INFO - -------------------------
+2019-07-24 14:55:29,006 - root - INFO - Reading Settings
+2019-07-24 14:55:29,007 - root - INFO - Reading Params....Oven
+2019-07-24 14:55:29,007 - root - INFO - File Ready to Use...Oven
+2019-07-24 14:55:29,007 - root - INFO - -------------------------
+2019-07-24 14:55:29,008 - root - INFO - Reading Settings...Bori
+2019-07-24 14:55:29,008 - root - INFO - Reading Params....Bori
+2019-07-24 14:55:29,008 - root - INFO - File Ready to Use...Bori
+2019-07-24 14:55:29,008 - root - INFO - -------------------------
+2019-07-24 14:55:29,009 - root - INFO - Reading Settings
+2019-07-24 14:55:29,009 - root - INFO - Reading Params....
+2019-07-24 14:55:29,009 - root - INFO - 
+2019-07-24 14:55:29,010 - root - INFO - File Ready to Use...
+2019-07-24 14:55:29,010 - root - INFO - -------------------------
+2019-07-24 14:55:29,010 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:55:29,011 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:55:29,029 - root - INFO - Data Push Started...Mixing
+2019-07-24 14:55:29,029 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:55:29,031 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:55:29,033 - root - INFO - Mixing dateparam: 2019-07-23
+2019-07-24 14:55:29,245 - root - INFO - Mixing self._date: 2019-07-23
+2019-07-24 14:55:29,246 - root - INFO - Mixing 0 records found
+2019-07-24 14:55:29,246 - root - INFO - DB Push Completed...Mixing
+2019-07-24 14:55:30,659 - root - INFO - ['/DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\\data\\Mixing_Report_2019-07-23.pdf']
+2019-07-24 14:55:30,660 - root - INFO - Saving Report...Moulder
+2019-07-24 14:55:30,674 - root - INFO - Data not available in staging... Getting From Mains...Moulder
+2019-07-24 14:55:30,674 - root - INFO - Data Push Started...Moulder
+2019-07-24 14:55:30,675 - root - INFO - Moulder dateparam: 2019-07-23
+2019-07-24 14:55:30,688 - root - INFO - Moulder self._date: 2019-07-23
+2019-07-24 14:55:30,689 - root - INFO - No Data...Moulder
+2019-07-24 14:55:30,689 - root - INFO - 0
+2019-07-24 14:55:31,699 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Moulder_Report_2019-07-23.pdf
+2019-07-24 14:55:31,700 - root - INFO - Saving Report...Downtime
+2019-07-24 14:55:31,736 - root - INFO - 0
+2019-07-24 14:55:32,767 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Moulder_DownTime_Report_2019-07-23.pdf
+2019-07-24 14:55:32,768 - root - INFO - Saving Report...Oven
+2019-07-24 14:55:32,786 - root - INFO - Data not available in staging... Getting From Mains...Oven
+2019-07-24 14:55:32,786 - root - INFO - Data Push Started...Oven
+2019-07-24 14:55:32,786 - root - INFO - Oven dateparam: 2019-07-23
+2019-07-24 14:55:32,810 - root - INFO - Oven self._date: 2019-07-23
+2019-07-24 14:55:32,810 - root - INFO - No Data...Oven
+2019-07-24 14:55:32,813 - root - INFO - 0
+2019-07-24 14:55:33,833 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Oven_Report_2019-07-23.pdf
+2019-07-24 14:55:33,834 - root - INFO - Saving Report...Bori
+2019-07-24 14:55:33,873 - root - INFO - Data not available in staging... Getting From Mains...Bori
+2019-07-24 14:55:33,873 - root - INFO - Data Push Started...Bori
+2019-07-24 14:55:33,874 - root - INFO - Bori dateparam: 2019-07-23
+2019-07-24 14:55:33,887 - root - INFO - Bori self._date: 2019-07-23
+2019-07-24 14:55:33,887 - root - INFO - No Data...Bori
+2019-07-24 14:55:33,888 - root - INFO - 0
+2019-07-24 14:55:34,916 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Bori_Report_2019-07-23.pdf
+2019-07-24 14:55:34,917 - root - INFO - 
+2019-07-24 14:55:34,917 - root - INFO - 
+2019-07-24 14:55:34,918 - root - INFO - Saving Report...Packing
+2019-07-24 14:55:34,918 - root - INFO - Reading Settings
+2019-07-24 14:55:34,934 - root - INFO - Data not available in staging... Getting From Mains...
+2019-07-24 14:55:34,934 - root - INFO - Data Push Started...
+2019-07-24 14:55:34,935 - root - INFO - dateparam: 2019-07-23
+2019-07-24 14:55:34,949 - root - INFO - self._date: 2019-07-23
+2019-07-24 14:55:34,949 - root - INFO - No Data...Packing
+2019-07-24 14:55:34,950 - root - INFO - 0
+2019-07-24 14:55:34,950 - root - INFO - Reading Settings
+2019-07-24 14:55:34,963 - root - INFO - Data not available in staging... Getting From Mains...
+2019-07-24 14:55:34,963 - root - INFO - Data Push Started...
+2019-07-24 14:55:34,963 - root - INFO - dateparam: 2019-07-23
+2019-07-24 14:55:34,975 - root - INFO - self._date: 2019-07-23
+2019-07-24 14:55:34,975 - root - INFO - No Data...PackingCBB
+2019-07-24 14:55:34,976 - root - INFO - 0
+2019-07-24 14:55:36,014 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Packing_Demo_2019-07-23.pdf
+2019-07-24 14:55:36,014 - root - INFO - 
+2019-07-24 14:55:36,024 - root - INFO - Sending Email Reports..............................
+2019-07-24 14:55:36,025 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-07-24 14:55:36,025 - root - INFO - mailSentFlag--- False
+2019-07-24 14:55:47,926 - root - INFO - mailSentFlag --- True
+2019-07-24 14:55:47,927 - root - INFO - Email Sent...
+2019-07-24 14:55:47,928 - root - INFO - Setting Flag...False
+2019-07-24 14:55:47,945 - root - INFO - Setting Flag Done...False
+2019-07-24 14:55:47,945 - root - INFO - DB Push Sleeping...
+2019-07-24 14:56:48,129 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:55:47, next run: 2019-07-24 14:56:47)
+2019-07-24 14:56:48,130 - root - INFO - Job Started...
+2019-07-24 14:56:48,130 - root - INFO - Reading Settings
+2019-07-24 14:56:48,147 - root - INFO - Reading Settings Done
+2019-07-24 14:56:48,148 - root - INFO - 14:56
+2019-07-24 14:56:48,149 - root - INFO - Setting Flag...True
+2019-07-24 14:56:48,165 - root - INFO - Setting Flag Done...True
+2019-07-24 14:56:48,165 - root - INFO - Dashboards Report Download.........................Started
+2019-07-24 14:56:48,166 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:56:48,167 - root - INFO - Reading Params....Mixing
+2019-07-24 14:56:48,167 - root - INFO - File Ready to Use...Mixing
+2019-07-24 14:56:48,167 - root - INFO - -------------------------
+2019-07-24 14:56:48,168 - root - INFO - Reading Settings...Moulder
+2019-07-24 14:56:48,168 - root - INFO - Reading Params....Moulder
+2019-07-24 14:56:48,168 - root - INFO - File Ready to Use...Moulder
+2019-07-24 14:56:48,169 - root - INFO - -------------------------
+2019-07-24 14:56:48,169 - root - INFO - Reading Settings
+2019-07-24 14:56:48,169 - root - INFO - Reading Params....Oven
+2019-07-24 14:56:48,170 - root - INFO - File Ready to Use...Oven
+2019-07-24 14:56:48,170 - root - INFO - -------------------------
+2019-07-24 14:56:48,170 - root - INFO - Reading Settings...Bori
+2019-07-24 14:56:48,170 - root - INFO - Reading Params....Bori
+2019-07-24 14:56:48,171 - root - INFO - File Ready to Use...Bori
+2019-07-24 14:56:48,171 - root - INFO - -------------------------
+2019-07-24 14:56:48,171 - root - INFO - Reading Settings
+2019-07-24 14:56:48,172 - root - INFO - Reading Params....
+2019-07-24 14:56:48,172 - root - INFO - 
+2019-07-24 14:56:48,172 - root - INFO - File Ready to Use...
+2019-07-24 14:56:48,172 - root - INFO - -------------------------
+2019-07-24 14:56:48,173 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:56:48,174 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:56:48,190 - root - INFO - Data Push Started...Mixing
+2019-07-24 14:56:48,191 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:56:48,193 - root - INFO - Reading Settings...Mixing
+2019-07-24 14:56:48,194 - root - INFO - Mixing dateparam: 2019-07-23
+2019-07-24 14:56:48,389 - root - INFO - Mixing self._date: 2019-07-23
+2019-07-24 14:56:48,389 - root - INFO - Mixing 0 records found
+2019-07-24 14:56:48,389 - root - INFO - DB Push Completed...Mixing
+2019-07-24 14:56:49,514 - root - INFO - ['/DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\\data\\Mixing_Report_2019-07-23.pdf']
+2019-07-24 14:56:49,515 - root - INFO - Saving Report...Moulder
+2019-07-24 14:56:49,534 - root - INFO - Data not available in staging... Getting From Mains...Moulder
+2019-07-24 14:56:49,534 - root - INFO - Data Push Started...Moulder
+2019-07-24 14:56:49,534 - root - INFO - Moulder dateparam: 2019-07-23
+2019-07-24 14:56:49,551 - root - INFO - Moulder self._date: 2019-07-23
+2019-07-24 14:56:49,551 - root - INFO - No Data...Moulder
+2019-07-24 14:56:49,552 - root - INFO - 0
+2019-07-24 14:56:51,375 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Moulder_Report_2019-07-23.pdf
+2019-07-24 14:56:51,376 - root - INFO - Saving Report...Downtime
+2019-07-24 14:56:51,416 - root - INFO - 0
+2019-07-24 14:56:52,656 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Moulder_DownTime_Report_2019-07-23.pdf
+2019-07-24 14:56:52,656 - root - INFO - Saving Report...Oven
+2019-07-24 14:56:52,673 - root - INFO - Data not available in staging... Getting From Mains...Oven
+2019-07-24 14:56:52,674 - root - INFO - Data Push Started...Oven
+2019-07-24 14:56:52,674 - root - INFO - Oven dateparam: 2019-07-23
+2019-07-24 14:56:52,698 - root - INFO - Oven self._date: 2019-07-23
+2019-07-24 14:56:52,698 - root - INFO - No Data...Oven
+2019-07-24 14:56:52,702 - root - INFO - 0
+2019-07-24 14:56:53,909 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Oven_Report_2019-07-23.pdf
+2019-07-24 14:56:53,909 - root - INFO - Saving Report...Bori
+2019-07-24 14:56:53,946 - root - INFO - Data not available in staging... Getting From Mains...Bori
+2019-07-24 14:56:53,946 - root - INFO - Data Push Started...Bori
+2019-07-24 14:56:53,946 - root - INFO - Bori dateparam: 2019-07-23
+2019-07-24 14:56:53,960 - root - INFO - Bori self._date: 2019-07-23
+2019-07-24 14:56:53,960 - root - INFO - No Data...Bori
+2019-07-24 14:56:53,961 - root - INFO - 0
+2019-07-24 14:56:55,012 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Bori_Report_2019-07-23.pdf
+2019-07-24 14:56:55,013 - root - INFO - 
+2019-07-24 14:56:55,013 - root - INFO - 
+2019-07-24 14:56:55,013 - root - INFO - Saving Report...Packing
+2019-07-24 14:56:55,014 - root - INFO - Reading Settings
+2019-07-24 14:56:55,028 - root - INFO - Data not available in staging... Getting From Mains...
+2019-07-24 14:56:55,028 - root - INFO - Data Push Started...
+2019-07-24 14:56:55,028 - root - INFO - dateparam: 2019-07-23
+2019-07-24 14:56:55,042 - root - INFO - self._date: 2019-07-23
+2019-07-24 14:56:55,042 - root - INFO - No Data...Packing
+2019-07-24 14:56:55,043 - root - INFO - 0
+2019-07-24 14:56:55,043 - root - INFO - Reading Settings
+2019-07-24 14:56:55,055 - root - INFO - Data not available in staging... Getting From Mains...
+2019-07-24 14:56:55,055 - root - INFO - Data Push Started...
+2019-07-24 14:56:55,055 - root - INFO - dateparam: 2019-07-23
+2019-07-24 14:56:55,067 - root - INFO - self._date: 2019-07-23
+2019-07-24 14:56:55,067 - root - INFO - No Data...PackingCBB
+2019-07-24 14:56:55,068 - root - INFO - 0
+2019-07-24 14:56:56,093 - root - INFO - /DeepaliData/Workspace/ABB/ABBLineA/classes/dbpush\data\Packing_Demo_2019-07-23.pdf
+2019-07-24 14:56:56,094 - root - INFO - 
+2019-07-24 14:56:56,105 - root - INFO - Sending Email Reports..............................
+2019-07-24 14:56:56,105 - root - INFO - ['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+2019-07-24 14:56:56,105 - root - INFO - mailSentFlag--- False
+2019-07-24 14:57:06,957 - root - INFO - mailSentFlag --- True
+2019-07-24 14:57:06,958 - root - INFO - Email Sent...
+2019-07-24 14:57:06,960 - root - INFO - Setting Flag...False
+2019-07-24 14:57:06,976 - root - INFO - Setting Flag Done...False
+2019-07-24 14:57:06,977 - root - INFO - DB Push Sleeping...
+2019-07-24 14:58:07,123 - schedule - INFO - Running job Every 1 minute do job() (last run: 2019-07-24 14:57:06, next run: 2019-07-24 14:58:06)
+2019-07-24 14:58:07,124 - root - INFO - Job Started...
+2019-07-24 14:58:07,124 - root - INFO - Reading Settings
+2019-07-24 14:58:07,141 - root - INFO - Reading Settings Done
+2019-07-24 14:58:07,142 - root - INFO - 14:58
+2019-07-24 14:58:07,142 - root - INFO - No Report Sharing...
+2019-07-24 14:58:07,142 - root - INFO - DB Push Sleeping...

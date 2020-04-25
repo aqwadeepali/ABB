@@ -1,0 +1,5 @@
+Field	Value
+STAGE_TIME	06:20
+UI_TIME	06:22
+EMAIL_LIST	["pramodkonde@hotmail.com", "shivabharathi64@gmail.com"]
+TILE	[{"name": "Mixing", "value": True},{"name":"Moulder", "value":True},{"name":"Oven", "value":True},{"name":"CMS", "value":True},{"name":"Wet Weight", "value":True},{"name":"Losses", "value":True},{"name":"Packing", "value":True}]

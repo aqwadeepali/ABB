@@ -1,0 +1,6 @@
+Field	Value
+COLLECTION	Archive-opc-B_CMS
+JSON	{'time_stamp':'Archive-opc-B_CMS_TIMESTAMP_EP','time':'Archive-opc-B_CMS_TIMESTAMP','cream_ratio_sp':'BCream_TotQty:Actual_Value','cream_ratio_actual':'BCream_TotQty:Actual_Value','maida_actual':'BFlour_TotQty:Actual_Value','cream_actual':'BCream_TotQty:Actual_Value'}
+KEYS	['CMS']
+SEQ	CMS
+REPORTKEYS	['CMS']

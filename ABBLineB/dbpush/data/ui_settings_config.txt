@@ -1,0 +1,3 @@
+Field	Value
+COLLECTION	ui_settings
+JSON	{'field':'Field','value':'Value'}

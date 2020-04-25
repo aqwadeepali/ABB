@@ -1,0 +1,7 @@
+Field	Value
+STAGE_TIME	07:15
+UI_TIME	06:56
+TIME_FLAG	False
+EMAIL_LIST	['deepali.bmahajan@gmail.com', 'rishikesh.jathar@gmail.com', 'pramodkonde@hotmail.com']
+EMAIL_LIST_1	['shivabharathi64@gmail.com', 'pramodkonde@hotmail.com', 'thousif.ahmed@in.abb.com', 'swaroop.sana@in.abb.com', 'dineshkumar.d@in.abb.com', 'ksrinivasan@britindia.com', 'anujjain@britindia.com', 'rrajasub@britindia.com', 'arunagirims@britindia.com', 'sundarn@britindia.com', 'ptoke01@gmail.com', 'greathary@gmail.com', 'ibplkarthick@gmail.com', 'sabarinathm@britindia.com', 'minakshib@britindia.com']
+TILE	[{'name': 'Mixing', 'value': True}, {'name': 'Moulder', 'value': True}, {'name': 'Oven', 'value': True}, {'name': 'Bori', 'value': True}, {'name': 'CMS', 'value': False}, {'name': 'Wet Weight', 'value': False}, {'name': 'Losses', 'value': False}, {'name': 'Packing', 'value': True}]

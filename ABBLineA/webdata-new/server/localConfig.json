@@ -1,0 +1,6 @@
+{
+  "development": {
+    "microServiceURL": "http://localhost:20040/api_analyze/services",
+    "tenantLabel": "ABB"
+  }
+}
