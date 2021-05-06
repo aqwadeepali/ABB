@@ -35,7 +35,7 @@
     "file-saver": "^2.0.2",
     "font-awesome": "^4.7.0",
     "fs": "0.0.1-security",
-    "highcharts": "^7.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-custom-events": "^3.0.2",
     "html2canvas": "^1.0.0-rc.3",
     "jquery": "^3.4.1",
